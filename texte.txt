@@ -1,0 +1,682 @@
+
+Conditions générales et engagement de confidentialité d'Apple
+Les modifications que nous avons apportées aux conditions générales comprennent les éléments suivants :
+
+•	Une nouvelle section a été ajoutée aux conditions générales afin d’expliquer les modalités selon lesquelles certains contenus peuvent être téléchargés automatiquement sur plusieurs ordinateurs et appareils iOS en associant ces appareils à un Compte donné, et le téléchargement supplémentaire de certains contenus achetés précédemment pour votre confort personnel ; il y a des limitations sur le nombre et le type d’ordinateurs et d’appareils qui peuvent être associés à un Compte à cette fin, ainsi que sur la fréquence à laquelle un ordinateur ou un appareil peut être associé à un Compte différent ; un appareil ne peut être associé qu’à un seul Compte à la fois ;
+
+•	Les Conditions Générales d’App Store ont été révisées pour tenir compte de la disponibilité d’abonnements in-app gratuits, et pour expliquer où les abonnements apparaissent sur les appareils après le téléchargement.
+iTunes Store
+CONDITIONS GÉNÉRALES DU SERVICE
+A. CONDITIONS GÉNÉRALES DE VENTE SUR ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE
+B. CONDITIONS GÉNÉRALES DE ITUNES STORE
+C. CONDITIONS GÉNÉRALES MAC APP STORE, APP STORE ET IBOOKSTORE
+D. ENGAGEMENT DE CONFIDENTIALITÉ
+
+LES PRÉSENTS CONTRATS, CONCLUS ENTRE VOUS ET ITUNES SARL (« ITUNES »), RÉGISSENT VOTRE UTILISATION DE ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE. POUR ACCEPTER CES CONDITIONS, CLIQUEZ SUR « ACCEPTER ». SI VOUS N’ACCEPTEZ PAS CES CONDITIONS, NE CLIQUEZ PAS SUR « ACCEPTER » ET N’UTILISEZ PAS ITUNES STORE, MAC APP STORE, APP STORE OU IBOOKSTORE. CE CONTRAT S’APPLIQUE SANS PRÉJUDICE DES LICENCES DE LOGICIELS QUE VOUS POURRIEZ AVOIR CONCLU, PAR EXEMPLE POUR L’UTILISATION DE L’APPLICATION ITUNES.
+
+A. CONDITIONS GÉNÉRALES DE VENTE SUR ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE
+
+PAIEMENTS, TAXES ET POLITIQUE DE REMBOURSEMENT
+
+Les modes de paiement suivants sont acceptés pour les services iTunes Store, Mac App Store, App Store et iBookstore (les « Stores») : cartes de paiement et de crédit émises par des banques établies en France, les paiements par le biais de votre compte Click&Buy, les Cartes iTunes, les Chèques Cadeaux iTunes Store, les Codes de Contenu et les crédits de Comptes de Provision. Si une carte de paiement ou de crédit ou votre compte Click&Buy est utilisé pour régler une transaction, iTunes pourra demander l'accord préalable pour un montant pouvant couvrir la valeur de la commande. La facturation intervient au moment de la transaction ou peu de temps après. Si vous effectuez des transactions en utilisant 1-Click ou votre compte Click&Buy, votre commande peut être autorisée et facturée au fur et à mesure au cours d’une même session d’achat, de sorte que votre commande peut apparaître sur votre extrait de compte sous la forme de plusieurs commandes. Si vous utilisez une Carte iTunes, un Chèque Cadeaux iTunes ou un Compte de Provision pour effectuer une transaction, le montant est déduit au moment de la transaction. Lorsque vous effectuez des achats, les crédits de contenu sont utilisés en premier, puis les Chèques Cadeaux, Cartes iTunes ou crédits de Compte de Provision ; votre carte de paiement ou de crédit ou votre compte Click&Buy seront débités du montant du solde restant.
+
+Vous acceptez de payer tous les produits que vous achetez par l’intermédiaire des Stores et que iTunes débite votre carte de paiement ou de crédit ou votre compte Click&Buy pour tous produits achetés, ainsi que pour toutes sommes supplémentaires (y compris toutes taxes et pénalités de retard, le cas échéant) accumulées par ou relatives à votre Compte. Vous êtes responsable du paiement dans les délais de toutes redevances et de la fourniture à iTunes d’une carte de paiement ou de crédit ou d’un compte Click&Buy valide pour le paiement de toutes les redevances. Toutes les redevances seront débitées de la carte de paiement ou de crédit ou du compte Click&Buy que vous aurez indiqué au moment de l’inscription. Si vous souhaitez désigner une carte de paiement ou de crédit différente ou en cas de changement relatif à votre carte de paiement ou de crédit ou à votre compte Click&Buy, vous devrez modifier en ligne vos informations dans la zone Votre Compte de iTunes ; il peut se produire une interruption temporaire de votre accès aux Stores, le temps que iTunes puisse vérifier la validité des nouvelles informations de paiement.
+
+Le prix total comprendra le prix du produit plus toute TVA applicable (en vigueur à la date du téléchargement).
+
+Vous disposez de la possibilité d'exercer votre droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités tant que la livraison du produit n'a pas commencé. Vous ne pourrez plus exercer votre droit de rétractation lorsque la livraison du produit aura commencé, la transaction étant alors définitive. Les services disponibles par le biais des Stores débutent dès que vous commencez à télécharger un produit à partir du Store concerné et vous n'aurez pas le droit d'annuler votre contrat une fois que les services auront commencé à être exécuté, sauf si vous avez reçu téléchargement de piètre qualité et qui n’est pas acceptable. Dans ce cas, vous devez nous en informer aussi rapidement que possible en utilisant le lien « Signaler un Problème » figurant sur votre facture et si le téléchargement de piètre qualité est dû à iTunes et ne peut être résolu, il peut être procédé au remboursement de l’achat.
+
+iTunes se réserve le droit, jusqu’au moment de la réalisation d’un achat, de modifier à tout moment les prix des produits mis en vente par les Stores et les Stores n’offriront aucune réduction de prix ni ne procéderont à aucun remboursement en cas de réduction de prix ou d'offre promotionnelle ultérieure à l’achat.
+
+Lorsqu’un produit devient indisponible, après une transaction mais avant le téléchargement, le seul recours dont vous disposez consiste à obtenir le remboursement du prix payé pour le produit indisponible. Si des problèmes techniques empêchent ou retardent déraisonnablement la livraison de votre produit, votre seul et unique recours sera soit le remplacement du produit, soit le remboursement du prix payé pour ce produit, au choix de iTunes.
+
+1-Click®
+
+1-Click est une marque déposée d'Amazon.com, Inc., utilisée sous licence. 1-Click est une fonctionnalité pratique qui vous permet de faire des achats auprès des Stores par un simple clic de souris ou autre périphérique d'entrée. Lorsque vous accédez aux Stores depuis votre ordinateur, l’achat au moyen de 1-Click peut être activé par la boîte de dialogue qui apparaît lorsque vous cliquez sur le bouton « Acheter ». (Vous pouvez réinitialiser cette sélection à tout moment en cliquant sur « Rétablir les avis» dans les informations votre Compte). Lorsque vous accédez aux Stores par vos produits de la marque Apple tournant sur iOS tels qu’un iPad, iPod touch ou iPhone (« Appareil iOS »), 1-Click est activé pour chaque achat lorsque vous appuyez sur le bouton indiquant le prix du produit, ce qui fait apparaître le bouton « Acheter ». Quand l’achat au moyen de 1-Click est activé, le fait de cliquer sur le bouton « Acheter » déclenchera le téléchargement immédiat et terminera votre transaction sans aucune autre étape.
+
+CHÈQUES CADEAUX, CARTES ITUNES, PROVISIONS ET CODES DE CONTENU
+
+Les Chèques Cadeaux, Cartes iTunes, Codes de Contenu et Provisions, ainsi que tous soldes inutilisés ne sont pas remboursables en espèces et ne peuvent être retournés en vue d’obtenir un remboursement en espèces, sans préjudice de tout droit de remboursement applicable en cas de défaut ou de description incorrecte des cadeaux ; ni être échangés, revendus ou utilisés pour acheter des Cadeaux, des Chèques Cadeaux ou des Cartes iTunes ou encore pour fournir des Provisions; ni être utilisés pour faire des achats sur Apple Online Store ; ni être utilisés dans les Magasins de Vente au détail Apple. Les soldes inutilisés ne peuvent être transférés.
+
+Les Chèques Cadeaux, Cartes iTunes, Codes de Contenu et Provisions achetés en France ne peuvent être utilisés sur les Stores qu’en France.
+
+iTunes n’est pas responsable de la perte ou du vol des Chèques Cadeaux, Cartes iTunes, Codes de Contenu et Provisions. Le risque de perte et la propriété des Chèques Cadeaux, Cartes iTunes et Provisions transmis par voie électronique sont transférés à l’acheteur en France au moment de leur transmission électronique. Le risque de perte et la propriété des Codes de Contenu transmis par voie électronique sont transférés depuis iTunes au Luxembourg au moment de leur transmission électronique.
+
+iTunes se réserve le droit de clôturer des comptes et de demander un autre mode de paiement si un Chèque Cadeaux, une Carte iTunes, un Code de Contenu ou une Provision est obtenu ou utilisé frauduleusement sur les Stores.
+
+CADEAUX
+
+Les Cadeaux achetés sur les Stores ne peuvent être destinés ou utilisés que par des personnes résidant en France. Les bénéficiaires de certains Cadeaux doivent posséder des matériels compatibles et des paramètres permettant le contrôle parental pour les utiliser.
+
+INFORMATION IMPORTANTE RELATIVE A LA SECURITE
+
+Afin d’éviter une fatigue musculaire, articulaire ou oculaire au cours de l’utilisation des produits accessibles via les Stores, il vous est recommandé d’effectuer des pauses fréquentes et de vous reposer plus longtemps si vous ressentez de la fatigue, des douleurs ou une gêne. Un très faible pourcentage de personnes peuvent être victimes d’attaques ou d’évanouissements lorsqu’elles sont exposées à des lumières ou des formes clignotantes, y compris notamment en jouant à des jeux vidéos ou en regardant des vidéos. Parmi les symptômes, on peut citer les vertiges, les nausées, les mouvements involontaires, la perte de conscience, la modification de la vision, des picotements, un engourdissement ou d’autres gênes. Veuillez consulter un médecin avant d’utiliser les produits accessibles via les Stores si vous avez déjà été victime de ces symptômes ou de symptômes similaires, et arrêtez immédiatement de jouer et consultez un médecin si ces symptômes ou des symptômes similaires surviennent pendant l’utilisation de ces produits. Les parents doivent surveiller leurs enfants lorsqu’ils utilisent les produits accessibles via les Stores afin de vérifier s’ils présentent des symptômes.
+
+PRÉ-COMMANDES
+
+En passant une pré-commande de produits, vous donnez autorisation aux Stores de prélever automatiquement sur votre compte et de télécharger le produit lorsqu’il est disponible. Vous pouvez annuler votre pré-commande avant que le produit ne soit disponible.
+
+CONTRATS ÉLECTRONIQUES
+
+L'utilisation des Stores vous donne la possibilité de conclure des contrats et/ou d'effectuer des transactions électroniquement. Vous reconnaissez que vos demandes électroniques constituent votre accord et votre volonté d'être lié contractuellement et de payer pour ces contrats et achats. Votre accord et volonté d'être lié contractuellement par des demandes électroniques s'appliquent à tous les enregistrements relatifs aux transactions que vous effectuez sur ce site, y compris les demandes d'annulation, les politiques, les contrats et les souscriptions. Pour accéder à vos enregistrements électroniques et les conserver, vous pourrez avoir besoin de certains matériels et logiciels dont vous êtes exclusivement responsable.
+
+iTunes n’est pas responsable des erreurs typographiques.
+
+B. CONDITIONS GÉNÉRALES DE ITUNES STORE
+
+CE CONTRAT ENTRE VOUS ET ITUNES S.A.R.L (« ITUNES »), REGIT VOTRE UTILISATION DU SERVICE ITUNES STORE (LE « SERVICE »).
+
+LE SERVICE ITUNES STORE
+
+iTunes est le fournisseur du Service qui vous permet d’acheter ou de louer une licence pour des téléchargements de contenu numérique (les « Produits iTunes ») uniquement destinés à l’utilisateur final, selon les conditions générales décrites dans le présent Contrat. iTunes n’est pas le fournisseur de l’application iTunes, de l’iPad, de l’iPod ou de l’iPhone.
+
+EXIGENCES LIÉES À L’UTILISATION DU SERVICE
+
+Ce Service est accessible aux personnes âgées de 13 ans ou plus. Si vous avez 13 ans ou plus, mais moins de 18 ans, vous devez lire le présent Contrat avec vos parents ou votre tuteur et vous assurer que vous, ainsi que vos parents ou votre tuteur, le comprenez.
+
+Le Service n'est disponible qu'en France. Vous vous engagez à ne pas utiliser ni tenter d’utiliser le Service en dehors de ce pays. iTunes pourra utiliser certaines technologies dans le but de vérifier votre respect de cet engagement.
+
+L’utilisation du Service nécessite du matériel compatible, ainsi qu’un accès Internet et certains logiciels (susceptibles d'être fournis contre redevance) ; peut périodiquement nécessiter des mises à jour ; et peut être affectée par les performances de ces éléments. Un accès Internet à haut débit est fortement recommandé pour un usage régulier et est exigé pour les Locations de Films. La version la plus récente du logiciel iTunes est recommandée pour accéder au Service et peut être exigée pour effectuer certaines transactions ou pour utiliser certaines fonctionnalités et pour télécharger les Produits iTunes achetés par le Service. Vous acceptez que le respect de ces besoins techniques, qui peuvent être modifiés périodiquement, est de votre responsabilité. Le Service ne fait partie d’aucun autre produit ou offre, et aucun achat ou acquisition de quelque autre produit que ce soit ne pourra être interprété comme vous procurant ou vous garantissant l’accès au Service.
+
+VOTRE COMPTE
+
+En tant qu'utilisateur inscrit au Service, vous pouvez créer un compte (« Compte »). Vous ne devez révéler à personne les informations relatives à votre Compte. Vous êtes seul responsable de la confidentialité et de la sécurité de votre Compte et de toutes les opérations effectuées sur votre Compte ou transitant par celui-ci, et vous acceptez d'avertir immédiatement iTunes de toute violation de la sécurité de votre Compte. iTunes ne pourra être tenu pour responsable d'aucune perte découlant d'une utilisation non autorisée de votre Compte.
+
+Pour acheter et télécharger les Produits iTunes depuis le Service, vous devez entrer votre Apple ID et votre mot de passe pour authentifier votre Compte. Après avoir authentifié votre Compte, vous n’aurez plus besoin de l’authentifier à nouveau pendant une durée de quinze minutes. Au cours de cette période, vous pourrez acheter et télécharger les Produits iTunes sans avoir à entrer de nouveau votre mot de passe. Vous pouvez désactiver la faculté de faire des achats de Produits iTunes en modifiant les paramètres de votre ordinateur ou Appareil iOS. Pour plus d’informations, merci de bien vouloir consulter les pages suivantes : http://support.apple.com/kb/HT1904 ou http://support.apple.com/kb/HT4213.
+
+Vous acceptez de fournir les informations exactes et complètes au moment de votre enregistrement et de toute utilisation du Service (« Données d’Inscription ») et vous vous engagez à mettre à jour vos Données d'Inscription afin qu'elles restent exactes et complètes. Vous acceptez qu'iTunes conserve et utilise les Données d'Inscription que vous avez fournies en vue de la tenue de votre Compte et de la facturation.
+
+LIVRAISON AUTOMATIQUE ET TELECHARGEMENT D’ACHATS PRECEDENTS
+
+Lorsque vous achetez pour la première fois des Produits iTunes musique et des Produits iTunes vidéo et musique (collectivement, le « Contenu iTunes Auto-Livré »), vous pouvez décider de recevoir automatiquement (« auto-téléchargement ») des copies de ce Contenu iTunes Auto-Livré sur des appareils supplémentaires compatibles Appareils iOS et des ordinateurs autorisés par iTunes avec des logiciels compatibles en associant ces Appareils iOS et ces ordinateurs sous réserve des règles d’association ci-dessous (individuellement désigné, un « Appareil Associé »). Pour chaque Appareil Associé, vous pouvez spécifier quel type de Contenu iTunes Auto-Livré, le cas échéant, pourra y être auto-téléchargé. Sur un Appareil Associé capable de recevoir des notifications push (« Compatible Push »), y compris les Appareils iOS, les Contenus iTunes Auto-Livrés seront auto-téléchargés sur cet Appareil Associé dès lors qu’il disposera d’une connexion Internet ; sur un Appareil Associé qui n’est pas Compatible Push, y compris ceux fonctionnant avec le système d'exploitation Windows, le Contenu iTunes Auto-Livré apparaîtra automatiquement dans la file de téléchargement et vous pourrez lancer manuellement le téléchargement via iTunes.
+
+Pour votre confort personnel, après l’acquisition du Contenu iTunes Auto-Livré (« Contenu Eligible iTunes »), vous pouvez télécharger une partie du Contenu Eligible iTunes acheté précédemment sur tout Appareil Associé. Certains Contenus Eligibles iTunes que vous avez précédemment achetés peuvent ne pas être disponibles pour un téléchargement supplémentaire à un moment donné, et iTunes ne pourra être responsable à votre égard le cas échant. Dans le cas où vous ne pourriez pas procéder au téléchargement supplémentaire de certains Contenus Eligibles iTunes achetés précédemment, après avoir téléchargé un élément du Contenu Eligible iTunes, il est de votre responsabilité de ne pas le perdre, le détruire ou l'endommager, et il est conseillé de le sauvegarder.
+
+L’Association d’Appareils Associés est soumise aux règles suivantes : 
+
+(i) Vous pouvez auto-télécharger du Contenu iTunes Auto-Livré ou télécharger du Contenu Eligible iTunes acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes. 
+
+(ii) Un Appareil Associé peut être associé seulement à un Compte à un moment donné. 
+
+(iii) Vous pouvez assigner un Appareil Associé à un autre Compte une fois tous les 90 jours seulement. 
+
+(iv) Vous pouvez télécharger les contenus gratuits achetés précédemment sur un nombre illimité d’appareils lorsqu’ils sont gratuits sur les Services iTunes, mais dans la limite de 5 ordinateurs autorisés par iTunes. 
+
+Une Apple TV n’est pas un « Appareil Associé ».
+
+Certains éléments du Contenu Eligible iTunes peuvent être volumineux, et des coûts importants liés à la transmission de ces données en ligne peuvent résulter de la livraison de ces Contenus Eligibles iTunes.
+
+CONFIDENTIALITÉ
+
+Le Service est soumis à l’Engagement de Confidentialité d’Apple disponible à l’adresse : http://www.apple.com/fr/privacy.
+
+Si vous choisissez d’activer la fonctionnalité Genius, Apple collectera ponctuellement, de manière automatique, des informations susceptibles d’être utilisées pour identifier les fichiers présents dans votre bibliothèque iTunes sur votre ordinateur, tels que votre historique de lecture et vos listes de lecture. Ces informations incluent les supports achetés via iTunes et ceux obtenus auprès d’autres sources. Ces informations seront stockées de manière anonyme et ne seront pas associées à votre nom ou à votre Compte. Lorsque vous utilisez la fonctionnalité Genius, Apple utilisera ces informations et les contenus de votre bibliothèque iTunes, ainsi que d’autres informations, afin de vous fournir des recommandations personnalisées.
+
+Apple ne pourra utiliser ces informations et les combiner avec des informations agrégées collectées auprès des bibliothèques iTunes d’autres utilisateurs qui ont également accepté d’utiliser cette fonctionnalité, avec votre historique d’achats sur iTunes Store, l’historique de données d’achat agrégées des autres utilisateurs de iTunes Store et d’autres informations obtenues auprès de tiers, qu’afin de :
+
+• créer pour vous des listes d’écoute personnalisées à partir de votre bibliothèque iTunes ;
+
+• vous faire des recommandations concernant les supports et autres produits et services que vous pourrez souhaiter acheter ;
+
+• faire des recommandations à d’autres utilisateurs concernant les produits et services.
+
+A tout moment, vos informations seront traitées conformément à l’Engagement de Confidentialité d’Apple.
+
+Lorsque que vous activez la fonctionnalité Genius dans iTunes, vous pourrez créer des listes d’écoute Genius sur des équipements compatibles avec Genius. Après avoir choisi sur iTunes d’activer la fonctionnalité Genius sur un équipement, vous devez synchroniser votre bibliothèque iTunes.
+
+Si vous ne souhaitez pas que nous collections et utilisions les données à partir de votre bibliothèque iTunes dans les conditions décrites aux présentes, vous ne devez pas activer la fonctionnalité Genius. Vous pouvez à tout moment revenir sur votre décision d’utiliser Genius, en désactivant la fonctionnalité Genius depuis le menu Store de iTunes sur votre ordinateur. Une fois désactivé, iTunes n’enverra plus les informations concernant votre bibliothèque iTunes à Apple. Si vous avez choisi de partager votre bibliothèque à partir de plusieurs ordinateurs, vous devez désactiver la fonctionnalité Genius sur chacun de ces ordinateurs. La fonctionnalité Genius ne peut pas être activée ou désactivée à partir de votre iPad, iPod touch ou iPhone.
+
+En choisissant d’activer la fonctionnalité Genius, vous consentez à l’utilisation de vos informations dans les conditions décrites ci-dessus et dans les conditions décrites dans l’Engagement de Confidentialité d’Apple.
+
+DISPONIBILITÉ DU CONTENU
+
+iTunes se réserve le droit de modifier sans préavis les options du contenu (y compris l’accès à des fonctionnalités déterminées).
+
+UTILISATION DU CONTENU ACHETÉ OU LOUÉ
+
+Vous acceptez que les Produits iTunes ne vous sont concédés que sous forme de licence. Vous comprenez que le Service et certains Produits iTunes comprennent un dispositif de sécurité recourant à une technologie qui protège l’information numérique et limite votre utilisation des Produits iTunes à certaines règles d’utilisation (« Dispositif de Sécurité ») fixées par iTunes et ses concédants. Vous reconnaissez en outre que votre utilisation des Produits iTunes, qu’ils soient ou non protégés par une technologie de sécurité, est limitée à certaines règles d’utilisation fixées par iTunes et ses concédants (« Règles d’Utilisation ») et que toute autre utilisation des Produits iTunes peut constituer une violation des droits d’auteur. Toute technologie de sécurité constitue une partie indissociable des Produits iTunes. iTunes se réserve le droit de modifier à tout moment les Règles d'Utilisation pour de futurs achats sur le Service. Toutefois, de telles modifications ne seront pas applicables aux Produits iTunes que vous avez déjà achetés. Toute modification des Règles d’Utilisation vous sera communiquée. Si vous refusez d’accepter les nouvelles Règles d’Utilisation, vous ne serez plus autorisé à acquérir des Produits iTunes auprès du Service.
+
+RÈGLES D’UTILISATION
+
+(i) Vous êtes autorisé à utiliser les Produits iTunes uniquement pour un usage personnel et non commercial. Pour plus de détails sur vos droits et restrictions de vos droits d’utilisation des Produits iTunes, veuillez consulter les pages suivantes :
+
+• www.prsformusic.com
+• www.warnerchappell.com/wcmuk/pedl.jsp
+• www.sacem.fr
+• www.sdrm.fr
+• www.sesam.org
+
+(ii) Vous aurez le droit d’utiliser les Produits iTunes, à tout moment, sur un nombre maximum de cinq ordinateurs sur lesquels est installée l'application iTunes, à l’exception des Locations de Film (voir ci-dessous).
+
+(iii) Vous aurez le droit de stocker simultanément les Produits iTunes à partir d’un nombre maximum de cinq Comptes différents sur des équipements compatibles tels qu’un iPad, iPod, iPhone et Apple TV, à condition que chaque iPhone puisse synchroniser les Produits iTunes sonneries sur un seul appareil autorisé par iTunes à la fois et que la synchronisation d’un iPhone avec un autre appareil autorisé par iTunes ait pour effet de supprimer les Produits iTunes sonneries enregistrés sur cet iPhone.
+
+(iv) Vous êtes autorisé à graver une liste de lecture audio jusqu’à sept fois maximum. Vous pouvez utiliser les CD audio sur lesquels vous avez gravé vos Produits iTunes de la même manière que vous pouvez utiliser un CD audio acheté en magasin, sous réserve des lois françaises sur le droit d’auteur.
+
+(v) Vous n’êtes autorisé à graver des Produits iTunes vidéo ou des Produits iTunes sonneries qu’à des fins de sauvegarde, chaque sauvegarde de Produit iTunes vidéo étant diffusée par l’application iTunes.
+
+(vi) Les Produits iTunes Plus ne comportent aucune technologie qui limite votre utilisation de ces Produits iTunes et les Règles d’Utilisation (ii) à (v) ne s’appliquent pas aux Produits iTunes Plus. Vous pouvez copier, stocker et graver les Produits iTunes Plus dans la mesure où cela est raisonnablement nécessaire à votre utilisation personnelle et non commerciale.
+
+(vii) Vous pourrez procéder à la synchronisation manuelle d’un film à partir d’au minimum un dispositif autorisé iTunes vers des équipements qui fonctionnent en mode de synchronisation manuelle, à condition que le film soit associé à un Compte sur l’équipement source compatible avec iTunes, étant entendu que l’équipement source désigne le premier équipement à avoir été synchronisé avec l’équipement cible, ou celui que vous avez ultérieurement désigné comme source grâce à l’application iTunes.
+
+(viii) Une connexion HDCP est nécessaire pour visionner les films et les programmes TV transmis en HDMI.
+
+(ix) Films à louer
+
+(a) Les films ne peuvent être visionnés que sur un équipement à la fois. Vous devez être connecté au Service lorsque vous déplacez les films à louer, et vous ne pouvez le faire qu’entre votre ordinateur et d’autres équipements compatibles. Les Films à louer qui utilisent Apple TV ou iPad, iPhone 4 ou iPod touch ne peuvent pas être déplacés. Si vous déplacez un film vers un équipement compatible et que vous utilisez ensuite le Service pour restaurer cet équipement, ou si vous sélectionnez les fonctions Paramètres > Redémarrage > Effacer tout le contenu et les paramètres sur cet équipement, le film sera effacé et ne pourra plus être récupéré.
+
+(b) Vous disposez de trente (30) jours après le téléchargement d’un film pour commencer à le visionner. Une fois avoir commencé à le visionner, vous disposez de quarante-huit (48) heures pour finir de visionner le film. Le fait d’arrêter, de mettre sur pause ou de recommencer un film n’a pas pour effet d’étendre le temps disponible pour le visionnage.
+
+Certains Produits iTunes, y compris notamment les Films à louer, ne peuvent être téléchargés qu’une seule fois et ils ne peuvent être remplacés s’ils sont perdus pour une raison quelconque : il est de votre responsabilité de ne pas perdre, détruire ou endommager les Produits iTunes une fois téléchargés et de les sauvegarder.
+
+La fourniture de Produits iTunes n’implique aucune concession de droits d’utilisation promotionnelle ou commerciale sur les Produits iTunes. Toutes les possibilités de graver ou d’exporter ne vous sont concédées qu’à des fins de commodité et ne sauraient constituer une cession ou une renonciation ou autre limitation à des droits quelconques, des propriétaires du droit d’auteur sur le contenu inclus dans un Produit iTunes.
+
+Vous reconnaissez que certains aspects du Service, des Produits iTunes ainsi que l'administration des Règles d'Utilisation impliquent une intervention évolutive de la part de iTunes.
+
+SÉCURITÉ DU CONTENU
+
+Vous acceptez de ne pas violer, contourner, modifier, faire de l’ingénierie inverse, décompiler, désassembler ou altérer de quelque manière que ce soit toute partie du Dispositif de Sécurité, ni tenter, ou assister une personne à le faire. Nonobstant toute autre disposition, vous êtes autorisé à graver sur CD les Produits iTunes audio, dans les limites des Règles d’Utilisation. Les Règles d’Utilisation peuvent être contrôlées et surveillées par iTunes à des fins de conformité, et iTunes se réserve le droit d’appliquer les Règles d’Utilisation sans avertissement préalable.
+
+SÉCURITÉ DU SERVICE
+
+Vous acceptez de ne pas accéder au Service par d’autres moyens que par l’utilisation du logiciel fourni par Apple Inc. ou les sociétés affiliées de son groupe (« Apple ») pour accéder au Service. Vous acceptez de ne pas modifier le logiciel qui est fourni par Apple pour accéder au Service de quelque façon que ce soit, ni sous quelque forme que ce soit, et à ne pas utiliser des versions modifiées du logiciel, pour quelque motif que ce soit, et notamment pour accéder illégalement au Service. Vous ne devez pas accéder, ni tenter d’accéder, à un Compte auquel vous n’êtes pas autorisé à accéder. Toutes infractions à la sécurité du système ou du réseau peuvent engager votre responsabilité civile ou pénale.
+
+PING
+
+Si vous optez pour l’utilisation de Ping, vous pouvez partager des informations avec les personnes qui ont également opté pour cette utilisation, telles que votre nom, votre image et vos centres d’intérêts. Le nom et l’image fournis seront également associés à tous les avis publiés à propos d’un Produit iTunes via votre Compte, y compris les avis publiés avant que vous ayez choisi d’utiliser Ping. Les personnes que vous avez autorisées à vous suivre pourront voir votre activité sur l’iTunes Store, tels que les évènements auxquels vous assistez, la musique que vous indiquez aimer, et les achats effectués avec votre Compte. Votre activité sur un autre compte d’utilisateur, tels que les commentaires que vous avez fait à propos de leur activité, est soumise aux paramètres de confidentialité de cet utilisateur, et peuvent être consultés par toutes les personnes suivant cet utilisateur. Vous êtes seul responsable des informations associées à votre Compte qui sont mises à disposition sur Ping. iTunes peut également utiliser les informations communiquées ainsi que les informations que l’iTunes Store envoie à iTunes concernant le contenu vous sélectionnez dans votre bibliothèque iTunes afin de vous fournir des recommandations Ping personnelles par exemple, pour vous suggérer d’autres utilisateurs que vous pourriez souhaiter suivre, des concerts et des informations connexes ou encore d’autres Produits iTunes qui pourraient vous intéresser. En utilisant Ping, vous acceptez que ces informations soient utilisées de la manière indiquée ci-dessus. Vos informations seront à tout moment traitées conformément à l’Engagement de Confidentialité d’Apple. Si vous ne voulez pas que des tiers consultent toute information fournie à l’occasion de l’utilisation de votre Compte, y compris l’activité sur l’iTunes Store, vous ne devez pas opter pour l’utilisation de Ping ou bien devez opter de ne plus utiliser Ping dans les paramètres de votre Compte. Lorsque vous refusez d’opter pour l’utilisation de Ping, vos informations seront retirées et ne seront donc plus visibles, puis supprimées après sept jours. Si vous n’optez pas pour l’utilisation de Ping, ou si vous cachez l’Espace Ping, iTunes n’enverra plus plus d’informations associées au contenu sélectionné dans votre bibliothèque iTunes pour Ping. Vous pourrez retirer des éléments de votre Activité Récente si vous ne voulez pas qu’ils soient visibles par d’autres utilisateurs. Veuillez prendre des précautions supplémentaires lors de l’utilisation de ces fonctionnalités.
+
+COMPLÉTER L’ALBUM (« CLA »)
+
+Dans certaines circonstances, vous n'aurez que 180 jours à compter de l'acquisition de la première chanson ou vidéo musicale compatible avec CLA pour accepter cette offre, et la mise à niveau des achats précédents à iTunes Plus n’affecte en aucune façon de tels délais.
+
+FORFAIT SAISON, FORFAIT MULTIPLE, FORFAIT ITUNES
+
+L'intégralité du prix du Forfait Saison, du Forfait Multiple ou du Forfait iTunes est facturée au moment de l’achat. Les remboursements (qui seront calculés au prorata afin de tenir compte du contenu inclus dans le Forfait Saison ou le Forfait Multiple que vous avez déjà téléchargé) sont disponibles dans les 14 jours de l’achat du Forfait Saison ou du Forfait Multiple en complétant le formulaire électronique disponible à l’adresse http://www.apple.com/fr/support/itunes/#video_purchases. Aucun(e) autre remboursement, retour ou annulation ne sera possible après l’achat. Vous devez vous connecter au Service et télécharger le contenu restant sur votre Forfait dans un délai de 90 jours à compter de la mise à disposition du dernier élément de contenu du Forfait (ou tout autre délai qui peut être indiqué sur la page concernant les achats effectués) ; passé ce délai, ce contenu ne sera plus téléchargeable dans le cadre du Forfait acheté. Si le renouvellement automatique est sélectionné lors de votre achat d’un Forfait Multiple, l’intégralité du prix correspondant à chaque nouveau cycle du Forfait Multiple vous sera facturée, à moins que et jusqu’à ce que vous n’annuliez ce renouvellement automatique avant le début d’un nouveau cycle du Forfait Multiple (dans la partie Gérer les Forfaits des informations de votre Compte). Dans le cas où la chaîne ou le studio produirait moins d’épisodes que prévu à la date de votre achat du Forfait Saison, nous verserons sur votre Compte la somme correspondante au prix d’achat du nombre d’épisodes TV concernés.
+
+PRODUITS HAUTE DÉFINITION (HD)
+
+Les Produits en résolution haute définition (HD) ne peuvent être visionnés qu’à partir d’appareils compatibles HD ; toutefois, les Produits HD achetés (pas ceux qui sont loués) contiennent également une version en définition standard pour usage sur des appareils non compatibles HD.
+
+SOUMISSIONS AU SERVICE
+
+Le Service peut proposer des fonctions interactives qui vous permettent de soumettre des contenus (y compris des liens pointant vers des contenus tiers) dans des zones du Service accessibles et consultables par le public. Vous acceptez que votre utilisation de telles fonctionnalités, y compris tous les contenus soumis par vous, se fera sous votre seule responsabilité, qu’elle ne devra pas contrefaire ou violer les droits de tiers ou violer la loi, contribuer à une conduite illégale ou l’encourager, ni faire preuve d’obscénité. Vous acceptez en outre que vous avez obtenu tous les droits et licences nécessaires. Vous vous engagez à fournir des informations exactes et complètes à propos de vos soumissions de contenus sur le Service. Par les présentes, vous concédez à iTunes une licence pour le monde entier, perpétuelle, à titre gratuit, non exclusive, d’utilisation de ces éléments dans le cadre du Service, et en relation avec les Produits iTunes, sans que cette utilisation implique une quelconque rémunération ou obligation à votre égard. iTunes se réserve le droit de ne pas afficher ou publier certains éléments et d’effacer, supprimer ou modifier tout élément, à tout moment, à sa seule discrétion, et sans préavis ni responsabilité de sa part.
+
+iTunes a le droit, mais pas l’obligation, de surveiller toute information ou contenu que vous avez soumis ou affiché ou qui serait disponible sur le Service, d’enquêter sur toute violation apparente ou portée à sa connaissance de ce Contrat, et de prendre, à sa discrétion, toute mesure que iTunes jugerait appropriée, y compris, de manière non limitative, la résiliation en vertu des présentes ou en vertu de la Politique d’Apple en matière de propriété intellectuelle (http://www.apple.com/legal/copyright.html).
+
+ÉLÉMENTS DE TIERS
+
+Certains contenus, Produits iTunes et services disponibles via le Service peuvent contenir des éléments provenant de tiers. iTunes peut fournir des liens vers des sites Internet de tiers à des fins de commodité. Vous reconnaissez et acceptez que iTunes n'est pas responsable de l’examen et de l’évaluation du contenu ou de son exactitude et qu’iTunes ne garantit et n’encourt aucune responsabilité du fait des éléments ou sites Internet de tiers, ou autres éléments, produits ou services tiers et décline toute responsabilité à cet égard. Vous acceptez de ne pas faire usage de tout élément provenant de tiers qui contreviendrait ou violerait les droits de toute autre personne et vous reconnaissez que iTunes ne sera en aucun cas responsable d'un tel usage.
+
+CONTENU INAPPROPRIÉ
+
+Vous comprenez qu'en utilisant le Service, vous pouvez être exposé à un contenu pouvant être considéré comme choquant, indécent ou inapproprié, et qu’un tel contenu peut ou ne pas être identifié comme tel de manière explicite. Néanmoins, vous acceptez d'utiliser le Service à vos propres risques et reconnaissez qu’iTunes n’aura aucune responsabilité envers vous pour tout contenu pouvant être considéré comme choquant, indécent ou inapproprié. Les types de Produits et les descriptions de ces derniers ne sont fournis qu'à des fins de commodité, et vous acceptez qu'iTunes ne garantisse pas leur exactitude.
+
+PROPRIÉTÉ INTELLECTUELLE
+
+Vous acceptez que le Service, y compris notamment, les Produits iTunes, les graphismes, l’interface utilisateur, les clips audio et vidéo et le contenu éditorial, ainsi que les scripts et logiciels utilisés pour mettre en œuvre le Service, contient des informations et éléments protégés appartenant à iTunes et/ou à ses concédants et qui sont protégés par les lois relatives à la propriété intellectuelle et autres, y compris, notamment le droit d’auteur. Vous acceptez de n’utiliser ces informations ou éléments que dans le cadre de l’utilisation du Service, conformément aux dispositions du présent Contrat. Aucune partie du Service ne peut être reproduite sous quelque forme ou par quelque moyen que ce soit, sauf dans les limites expressément prévues aux présentes. Vous vous engagez à ne pas modifier, louer, donner en crédit-bail, prêter, vendre, distribuer ou créer des œuvres dérivées du Service, de quelque façon que ce soit et vous n’exploiterez pas le Service de façon non autorisée, y compris notamment, en portant atteinte ou en surchargeant la capacité du réseau.
+
+Nonobstant toute autre disposition du présent Contrat, iTunes et ses concédants se réservent le droit de modifier, suspendre, supprimer ou désactiver l’accès à tout Produit iTunes, contenu ou autres éléments qui sont proposés par le Service sans préavis. iTunes ne sera en aucun cas responsable de ces modifications. iTunes pourra également imposer certaines limites d’utilisation ou d’accès à certaines fonctionnalités ou parties du Service, dans tous les cas et sans préavis ou responsabilité. La suppression d’un contenu du Service n’aura pas d’impact sur les contenus que vous aurez déjà acquis par le biais du Service.
+
+Tous les droits d’auteur liés au Service, y compris la compilation de contenus, d’affichages, de liens vers d’autres ressources Internet et les descriptions de ces ressources sont la propriété de iTunes et/ou de ses concédants. L’utilisation de toute partie du Service, exceptée l’utilisation du Service telle qu’autorisée par les présentes, est strictement prohibée et constitue une violation des droits de propriété intellectuelle de tiers et peut vous exposer à des sanctions civiles et pénales, y compris des dommages et intérêts, pour violation de droit d’auteur.
+
+Apple, le logo Apple, iTunes, et autres marques, marques de services, graphismes et logos d’Apple, utilisés en relation avec le Service sont des marques protégées ou marques déposées d’Apple Inc. aux États-Unis et/ou dans d’autres pays. Les autres marques, marques de services, graphismes et logos, utilisés en relation avec le Service peuvent être des marques commerciales de leurs propriétaires respectifs. Il ne vous est accordé aucun droit ni licence sur les marques susmentionnées, ni sur leur utilisation.
+
+En tant que titulaire d’un Compte pour le Service, iTunes peut vous donner un accès limité au téléchargement de certaines pochettes d’albums pour des musiques stockées dans la Bibliothèque iTunes de votre application iTunes. Cet accès vous est fourni uniquement afin de vous rendre service, et iTunes ne fournit aucune garantie et n’encourt aucune responsabilité pour lesdites pochettes ou l’utilisation que vous en ferez. Vous ne pouvez accéder aux pochettes que pour des musiques pour lesquelles vous êtes le propriétaire légal d’une copie licite. Les pochettes d’albums ne sont fournies que pour une utilisation personnelle et non commerciale. Vous vous engagez à ne pas utiliser les pochettes de quelque façon qui soit en contrefaçon ou en violation du présent Contrat ou des droits de tout tiers, et vous reconnaissez que iTunes n’est en aucune façon responsable d’une telle utilisation par vous.
+
+RÉSILIATION
+
+En cas de manquement de votre part, ou si iTunes a des raisons sérieuses de penser que vous n'avez pas respecté une disposition quelconque du présent Contrat, iTunes pourra, à sa seule discrétion et sans préavis : (i) résilier le présent Contrat et/ou votre Compte, auquel cas vous resterez redevable de toutes les sommes dues portées à votre Compte, jusqu’à la date de résiliation comprise ; et/ou (ii) résilier la licence du logiciel ; et/ou (iii) vous interdire l’accès à tout ou partie du Service.
+
+iTunes se réserve le droit de modifier, suspendre ou mettre fin au Service (ou toute partie ou contenu du Service) à tout moment, sans que la responsabilité de iTunes ne puisse être engagée de ce fait envers vous ou envers tout tiers. Dans la mesure du possible, iTunes vous informera par avance de toute modification, suspension ou fin du Service. La résiliation du Service n’affectera pas les Produits iTunes que vous avez déjà acquis. Toutefois, il se peut que vous ne puissiez plus autoriser des ordinateurs supplémentaires à utiliser les Produits iTunes.
+
+EXCLUSION DE GARANTIES ; LIMITATIONS DE RESPONSABILITÉ
+
+a. iTunes fournira le Service avec diligence et dans le respect des règles de l’art. iTunes ne donne aucun autre engagement ni aucune autre garantie concernant le Service et, en particulier, ne garantit pas que :
+
+(i) votre utilisation du Service se fera sans interruption ni sans erreur. Vous acceptez que iTunes suspende de temps en temps l'accès au Service pendant des périodes non prédéfinies ou mette un terme à tout moment au Service pour des raisons techniques ou opérationnelles ; dans la mesure du possible, iTunes vous en informera préalablement.
+
+(ii) le Service sera à l'abri de pertes, dommages, attaques, virus, interférences, piratages ou autres atteintes à la sécurité qui constitueront des événements de Force Majeure et iTunes décline toute responsabilité pour toutes conséquences dommageables qui en résulteraient. Vous êtes responsable de la sauvegarde de votre propre système, y compris de tous Produits iTunes achetés auprès du Service.
+
+b. Sauf dans les cas indiqués au paragraphe (d) ci-dessous ou dans le cas où vous exercez un droit à remboursement ou à compensation qui vous est conféré par la loi, iTunes, ses dirigeants, cadres, salariés, membres affiliés, agents, contractants ou concédants de licence ne pourront en aucun cas être tenus pour responsables de perte ou dommage causé par iTunes, ses salariés ou agents lorsque :
+
+(i) il n’y a pas manquement à une obligation légale de précaution envers vous de la part de iTunes ou de ses salariés ou agents ;
+
+(ii) cette perte ou ce dommage ne constitue pas une conséquence raisonnablement prévisible d’un tel manquement ;
+
+(iii) toute aggravation de cette perte ou ce dommage résulte d’un manquement de votre part, de quelque nature que ce soit, à l’une des dispositions du présent Contrat ;
+
+(iv) cette perte ou ce dommage résulte de la décision prise par iTunes, au cours de l’enquête sur une violation présumée du présent Contrat ou après le constat par iTunes qu’une violation du présent Contrat est intervenue, de supprimer ou de refuser de traiter une information ou un contenu, de vous avertir, de suspendre ou de résilier votre accès au Service ou de prendre toute autre mesure; ou
+
+(v) cette perte ou ce dommage résulte d’une perte de revenu, d’activité ou de bénéfice ou d’une perte ou une corruption de données en relation avec votre utilisation du Service.
+
+c. iTunes devra mettre en œuvre des moyens raisonnables pour protéger l’information que vous fournissez en relation avec les Services, y compris contre toute utilisation frauduleuse.
+
+d. Aucune disposition du présent Contrat n’exclut ni ne limite la responsabilité de iTunes en cas de fraude, de faute lourde, de faute volontaire, de mort ou de préjudice corporel.
+
+e. Si vous violez le présent Contrat, vous serez responsables envers iTunes, ses dirigeants, cadres, salariés, membres affiliés, agents, contractants ou concédants de licence pour toute plainte résultant d’une violation de votre part. Vous serez également responsables de toute action engagée par iTunes dans le cadre d’une enquête concernant une violation présumée du présent Contrat ou résultant de la découverte ou de la conclusion qu’une violation du présent Contrat a été commise.
+
+MODIFICATIONS
+
+iTunes se réserve le droit à tout moment de modifier le présent Contrat et d’imposer des conditions nouvelles ou supplémentaires concernant votre utilisation du Service. Ces modifications et conditions supplémentaires vous seront communiquées et, si vous les acceptez, entreront en vigueur immédiatement et seront incorporées au présent Contrat. Si vous refusez d'accepter ces modifications, iTunes pourra résilier le Contrat.
+
+DIVERS
+
+Le présent Contrat constitue l'intégralité de l'accord entre vous et iTunes et régit votre utilisation du Service ; il annule et remplace tous accords préalables entre vous et iTunes. Vous pourrez également être soumis à des dispositions complémentaires applicables si vous utilisez des services associés, certains Produits iTunes, un contenu ou un logiciel fourni par un tiers. Si une disposition du présent Contrat est considérée nulle ou non opposable, cette disposition sera interprétée conformément au droit applicable afin de se rapprocher au mieux de la commune intention des parties, et les autres dispositions resteront en vigueur. Le fait pour iTunes de ne pas faire appliquer un droit ou une disposition découlant du présent Contrat ne constituera pas une renonciation envers une telle disposition ou toute autre disposition. iTunes ne sera pas tenu responsable en cas d'impossibilité de remplir ses obligations en raison de faits indépendants de sa volonté.
+
+Le Service est édité par iTunes depuis le Luxembourg. Vous acceptez de vous conformer à toutes les lois, ordonnances et réglementations locales, d’État, fédérales et nationales applicables à votre utilisation du Service. Le présent Contrat et l’utilisation du Service sont régis par le droit français.
+
+iTunes pourra vous envoyer des notifications concernant le Service par courriel, à l’adresse indiquée dans votre Compte, par lettre envoyée par courrier postal à l’adresse indiquée dans votre Compte ou par affichage sur le Service. Les notifications prendront effet immédiatement.
+
+iTunes se réserve le droit de prendre les mesures qu’elle juge raisonnablement nécessaires ou appropriées pour faire appliquer et/ou vérifier le respect de tout ou partie du présent Contrat. Vous reconnaissez que iTunes a le droit, sans engager sa responsabilité à votre égard, de divulguer les Données d'Inscription et/ou les informations de Comptes aux autorités, aux représentants du gouvernement et/ou à des tiers, si iTunes l'estime raisonnablement nécessaire ou approprié pour faire appliquer et/ou vérifier le respect de toute disposition du présent Contrat (y compris notamment le droit de iTunes de coopérer dans le cadre de toute procédure judiciaire relative à votre utilisation du Service et/ou des Produits iTunes, et/ou sur réclamation de tiers relative à votre utilisation illicite du Service et/ou des Produits iTunes ou en violation de droits de ces tiers).
+
+À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 8 rue Heinrich Heine, L-1720 Luxembourg.
+
+C. CONDITIONS GÉNÉRALES MAC APP STORE, APP STORE ET IBOOKSTORE
+
+LE PRESENT CONTRAT ENTRE VOUS ET ITUNES SARL (« ITUNES ») DÉFINIT LES CONDITIONS RÉGISSANT VOTRE UTLISATION DES SERVICES MAC APP STORE, APP STORE ET IBOOKSTORE (« STORES ») AINSI QUE L’ACHAT DE LICENCES À PARTIR DE CES SERVICES, QUI VOUS SONT VENDUES PAR ITUNES.
+
+MAC APP STORE, APP STORE ET IBOOKSTORE
+
+iTunes est le fournisseur des Stores qui vous permettent d'acquérir auprès de iTunes des licences d’utilisation sur des produits logiciels depuis l’App Store et le Mac App Store (ensemble, les « Produits App Store ») et des livres numériques (les « Produits iBookstore ») destinés aux utilisateurs finaux uniquement, conformément aux conditions générales décrites dans le présent Contrat. Pour les Produits App Store, les utilisateurs finaux peuvent être des personnes agissant à titre personnel, ou des entreprises commerciales ou des établissements d'enseignement. Les Produits App Store et les Produits iBookstore sont désignés ensemble « Produits ».
+
+CONDITIONS D’UTILISATION DES STORES
+
+Les Stores sont accessibles aux personnes âgées de 13 ans ou plus. Si vous avez 13 ans ou plus, mais moins de 18 ans, vous devez lire le présent Contrat avec vos parents ou votre tuteur et vous assurer que vous, ainsi que vos parents ou votre tuteur, le comprenez.
+
+Les Stores ne sont disponibles qu’en France. Vous vous engagez à ne pas utiliser ou tenter d’utiliser les Stores en dehors de ce pays. iTunes peut utiliser des technologies afin de vérifier que vous respectez votre engagement.
+
+L’utilisation des Stores nécessite un ou plusieurs systèmes compatibles, un accès à Internet, et certains logiciels (susceptibles d'être fournis contre redevance), et peut périodiquement nécessiter des mises à jour. L'utilisation des Stores peut être affectée par les performances de ces éléments. Un accès Internet haut débit est fortement recommandé. Les versions les plus récentes des logiciels nécessaires (y compris notamment iTunes et Mac App Store) sont recommandées pour accéder aux Stores et peuvent être nécessaires pour effectuer des transactions, bénéficier de fonctionnalités et télécharger des Produits dont une licence a été préalablement acquise par le biais des Stores. Vous reconnaissez que ces besoins techniques, qui peuvent être modifiés périodiquement, sont de votre responsabilité. Les Stores ne font partie d'aucun autre produit ou offre, et aucun achat ou acquisition de quelque autre produit que ce soit ne pourra être interprété comme vous procurant ou garantissant l'accès aux Stores.
+
+VOTRE COMPTE
+
+En tant qu’utilisateur inscrit aux Stores, vous pouvez créer un compte (« Compte »). Vous ne devez révéler à personne les informations relatives à votre Compte. Vous êtes entièrement responsable de la confidentialité et de la sécurité de votre Compte, et de toutes les opérations effectuées sur votre Compte ou transitant par celui-ci, et vous acceptez d’avertir immédiatement iTunes de toute violation de la sécurité de votre Compte. iTunes ne pourra être tenu pour responsable d’aucune perte découlant d’une utilisation non autorisée de votre Compte.
+
+Pour acheter et télécharger les Produits iTunes depuis le Service, vous devez entrer votre Apple ID et votre mot de passe pour authentifier votre Compte. Après avoir authentifié votre Compte, vous n’aurez plus besoin de l’authentifier à nouveau pendant une durée de quinze minutes. Au cours de cette période, vous pourrez acheter et télécharger les Produits iTunes sans avoir à entrer à nouveau votre mot de passe. Vous pouvez désactiver la faculté de faire des achats de Produits iTunes en modifiant les paramètres de votre ordinateur ou Appareil iOS. Pour plus d’informations, merci de bien vouloir consulter les pages suivantes : http://support.apple.com/kb/HT1904 ou http://support.apple.com/kb/HT4213.
+
+Vous acceptez de fournir les informations exactes et complètes au moment de votre enregistrement et de toute utilisation des Stores (« Données d’Inscription ») et vous vous engagez à mettre à jour vos Données d’Inscription afin qu’elles restent exactes et complètes. Vous acceptez que iTunes conserve et utilise les Données d’Inscription que vous avez fournies en vue de la tenue de votre Compte et de la facturation.
+
+LIVRAISON AUTOMATIQUE ET TELECHARGEMENT D’ACHATS PRECEDENTS
+
+Lorsque vous achetez pour la première fois des Produits (à l’exclusion des produits acquis depuis le Mac App Store) via les Stores (ensemble, « Contenu Eligible »), vous pouvez décider de recevoir automatiquement (« auto-téléchargement ») des copies du Contenu Eligible sur des ordinateurs autorisés par iTunes supplémentaires et sur des Appareils iOS avec des logiciels compatibles en associant ces ordinateurs et ces Appareils iOS sous réserve des règles d’association ci-dessous (individuellement désigné, un « Appareil Associé »). Pour chaque Appareil Associé, vous pouvez spécifier quel type de Contenu Eligible, le cas échéant, pourra être auto-téléchargé sur ce dernier. Sur un Appareil Associé capable de recevoir des notifications push (« Compatible Push »), notamment les Appareils iOS, les Produits seront auto-téléchargés sur cet Appareil Associé dès lors qu’il disposera d’une connexion Internet ; sur un Appareil Associé qui n’est pas Compatible Push, notamment ceux fonctionnant avec le système d’exploitation Windows, le Contenu Eligible apparaitra automatiquement dans la file de téléchargements et vous pourrez lancer manuellement le téléchargement via iTunes.
+
+Pour votre confort personnel, après l’acquisition de Contenu Eligible, vous pouvez télécharger une partie du Contenu Eligible acheté précédemment sur tout Appareil Associé. Certains Contenus Eligibles que vous avez précédemment achetés peuvent ne pas être disponibles pour un téléchargement supplémentaire à un moment donné, et iTunes ne sera pas responsable envers vous le cas échéant. Dans les cas où vous ne pourrez pas procéder au téléchargement supplémentaire de certains Contenus Eligibles achetés précédemment, après avoir téléchargé un élément du Contenu Eligible, il est de votre responsabilité de ne pas le perdre, le détruire ou l’endommager, et il est conseillé de le sauvegarder.
+
+L’Association d’Appareils Associés doit respecter les règles suivantes :
+
+(i)Vous pouvez auto-télécharger du Contenu Eligible ou télécharger du Contenu Eligible acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes.
+
+(ii) Un Appareil Associé peut être associé seulement à un Compte à un moment donné.
+
+(iii) Vous pouvez assigner un Appareil Associé à un autre Compte une fois tous les 90 jours seulement.
+
+(iv) Vous pouvez télécharger les contenus gratuits achetés précédemment sur un nombre illimité d’appareils lorsqu’ils sont gratuits sur les Stores, mais dans la limite de 5 ordinateurs autorisés par iTunes.
+
+Les conditions (i) à (iv) ci-dessus ne s’appliquent pas aux Produits App Store.
+
+Certains éléments du Contenu Eligible peuvent être volumineux, et d’importants coûts liés à la transmission de ces données en ligne peuvent résulter de la livraison de ces Contenus Eligibles.
+
+CONFIDENTIALITÉ
+
+Sauf mention contraire dans le présent Contrat, les Stores sont soumis à l’Engagement de Confidentialité d’Apple disponible à l’adresse: http://www.apple.com/fr/privacy/.
+
+UTILISATION DES PRODUITS ET DES STORES
+
+iTunes vous concède une licence d’utilisation des Produits. A compter de son achat sur iTunes, cette licence constitue un contrat ayant force obligatoire établi entre vous et l’éditeur de ce Produit (l’ « Éditeur ») régissant votre utilisation de ce Produit. Vous reconnaissez que les Stores et certains Produits comprennent un dispositif de sécurité recourant à une technologie qui protège l’information numérique et limite votre utilisation des Produits à certaines règles d’utilisation (« Dispositif de Sécurité ») fixées par iTunes et les Éditeurs. Vous reconnaissez en outre que votre utilisation des Produits, qu’ils soient ou non protégés par une technologie de sécurité, sera conforme aux règles d’utilisation applicables fixées par iTunes et les Éditeurs (« Règles d’Utilisation »), et que toute autre utilisation des Produits pourra constituer une violation de droits d’auteur. Toute technologie de sécurité constitue une partie indissociable des Produits. iTunes se réserve le droit de modifier à tout moment les Règles d’Utilisation de futurs achats sur les Stores. Toutefois, de telles modifications ne seront pas applicables aux Produits que vous avez déjà achetés. Toute modification des Règles d’Utilisation vous sera communiquée. Si vous refusez d'accepter les nouvelles Règles d’Utilisation, vous ne serez plus autorisé à acquérir des Produits auprès des Stores.
+
+SÉCURITÉ DU CONTENU
+
+Vous acceptez de ne pas violer, contourner, faire de l’ingénierie inverse, décompiler, désassembler ou altérer de quelque manière que ce soit toute partie du Dispositif de Sécurité, ni de tenter ou assister une personne à le faire. Les Règles d’Utilisation peuvent être contrôlées et surveillées par iTunes à des fins de conformité, et iTunes se réserve le droit d’appliquer les Règles d’Utilisation sans avertissement préalable.
+
+SÉCURITÉ DES STORES
+
+Vous acceptez de n’accéder aux Stores que par l’utilisation du logiciel fourni par Apple Inc. ou les sociétés affiliées de son groupe (« Apple ») pour accéder aux Stores. Vous vous engagez à ne pas modifier le logiciel qui est fourni par Apple pour accéder aux Stores de quelque façon ou forme que ce soit, et à ne pas utiliser des versions modifiées du logiciel, pour quelque motif que ce soit, et notamment pour accéder illégalement aux Stores. Vous ne devrez pas accéder, ni tenter d’accéder, à un Compte auquel vous n’êtes pas autorisé à accéder. Toutes infractions à la sécurité du système ou du réseau sont susceptibles d’engager votre responsabilité civile ou pénale.
+
+La fourniture des Produits ne vous accorde aucun droit d’utilisation promotionnelle sur ceux-ci.
+
+Vous reconnaissez que certains aspects des Stores, des Produits, ainsi que l’administration des Règles d’Utilisation impliquent une intervention évolutive de la part de iTunes, nonobstant le fait qu’iTunes ne soit pas partie à la licence conclue entre vous et les Éditeurs des Produits.
+
+SOUMISSIONS AUX STORES
+
+Les Stores peuvent proposer des fonctions interactives qui vous permettent de soumettre des éléments (y compris des liens pointant vers des contenus tiers) dans des zones des Stores accessibles et consultables par d’autres utilisateurs des Stores et par le public. Vous acceptez que toute utilisation de telles fonctions, y compris la soumission d’éléments, se fera sous votre seule responsabilité, qu’elle ne devra pas contrefaire ou violer les droits de tiers ou violer les lois, contribuer à une conduite illégale ou l’encourager, ni être jugée obscène, choquante ou de mauvais goût. Vous reconnaissez également que vous avez obtenu tous les droits et licences nécessaires. Vous vous engagez à fournir des informations exactes et complètes en relation avec votre soumission d’éléments sur les Stores. Vous concédez par la présente à iTunes une licence pour le monde entier, perpétuelle, à titre gratuit, non exclusive d’utilisation de ces éléments dans le cadre des Stores, et en relation avec les Produits, sans que cette utilisation implique une quelconque rémunération ou obligation à votre égard. iTunes se réserve le droit de ne pas afficher ou publier certains éléments et d’effacer, supprimer ou modifier tout élément, à tout moment, à sa seule discrétion, et sans préavis ni responsabilité de sa part. Vous ne pouvez pas soumettre d’évaluations ou de notes pour les Produits App Store téléchargés à l’aide d’un Code de Contenu promotionnel.
+
+iTunes a le droit, mais pas l'obligation, de surveiller toute information que vous avez soumis ou qui serait disponible sur les Stores, d'enquêter sur toute violation apparente ou portée à sa connaissance de ce Contrat, et de prendre, à sa discrétion, toute mesure que iTunes jugerait appropriée, y compris, de manière non limitative, la résiliation en vertu des présentes ou en vertu de la Politique d'Apple en matière de propriété intellectuelle (http://www.apple.com/legal/copyright.html).
+
+ÉLÉMENTS DE TIERS
+
+Certains contenus, Produits et services disponibles par l’intermédiaire des Stores peuvent contenir des éléments provenant de tiers. iTunes peut fournir des liens vers des sites Internet de tiers à des fins de commodité. Vous reconnaissez et acceptez que iTunes n'est pas responsable de l’examen et de l’évaluation du contenu ou de son exactitude et qu’iTunes ne garantit et n’encourt aucune responsabilité du fait des éléments ou sites Internet de tiers, ou autres éléments, produits ou services tiers et décline toute responsabilité à cet égard. Vous acceptez de ne pas faire usage de tout élément provenant de tiers qui contreviendrait ou violerait les droits de toute autre personne et vous reconnaissez que iTunes ne sera en aucun cas responsable d'un tel usage.
+
+CONTENU INAPPROPRIÉ
+
+Vous comprenez qu’en utilisant les Stores, vous pouvez vous trouver confronté à un contenu pouvant être considéré comme choquant, indécent ou inapproprié, et qu’un tel contenu peut ou ne pas être identifié comme tel de manière explicite. Néanmoins, vous acceptez d’utiliser les Stores à vos propres risques et reconnaissez qu’iTunes n’aura aucune responsabilité envers vous pour tout contenu pouvant être considéré comme choquant, indécent ou inapproprié. Les types de Produits et les descriptions de ces derniers ne sont fournis qu’à des fins de commodité et vous acceptez qu’iTunes ne garantisse pas leur exactitude.
+
+PROPRIÉTÉ INTELLECTUELLE
+
+Vous acceptez que les Stores, y compris notamment, les Produits, les graphismes, l’interface utilisateur, les clips audio et le contenu éditorial, ainsi que les scripts et logiciels utilisés pour mettre en œuvre les Stores, contiennent des informations et éléments protégés appartenant à iTunes et/ou aux Éditeurs et qui sont protégés par les lois relatives à la propriété intellectuelle et autres, y compris notamment, le droit d’auteur. Vous acceptez d’utiliser ces informations ou éléments que dans le cadre de l’utilisation des Stores, conformément aux dispositions du présent Contrat. Aucune partie des Stores ne peut être reproduite sous quelque forme ou par quelque moyen que ce soit, sauf dans les limites expressément prévues aux présentes. Vous vous engagez à ne pas modifier, louer, donner en crédit-bail, prêter, vendre, distribuer ou créer des œuvres dérivées des Stores, de quelque façon que ce soit et n’exploiterez pas les Stores de façon non autorisée, y compris notamment, en portant atteinte ou en surchargeant la capacité du réseau.
+
+Nonobstant toute autre disposition du présent Contrat, iTunes et les Éditeurs se réservent le droit de modifier, suspendre, supprimer ou désactiver l’accès à tout Produit, contenu ou autres éléments qui sont proposés sur les Stores sans préavis. iTunes ne sera en aucun cas responsable de ces modifications. iTunes pourra également imposer des limites d’utilisation ou d’accès à certaines fonctionnalités ou parties des Stores, dans tous les cas et sans préavis ou responsabilité. La suppression de Produits présents dans les Stores n’aura pas d’impact sur les Produits que vous aurez déjà acquis auprès des Stores.
+
+Tous les droits d'auteur liés aux Stores, y compris la compilation de contenus, d'affichages, de liens vers d'autres ressources Internet et les descriptions de ces ressources sont la propriété de iTunes et/ou de ses concédants de licence. L’utilisation de toute partie des Stores, exceptée l'utilisation des Stores telle qu'autorisée par les présentes, est strictement prohibée et constitue une violation des droits de propriété intellectuelle de tiers. Elle peut vous exposer à des sanctions civiles et pénales, y compris des dommages et intérêts, pour violation de droit d'auteur.
+
+Apple, le logo Apple, iTunes, App Store, et autres marques, marques de services, graphismes et logos d'Apple, utilisés en relation avec les Stores sont des marques protégées ou marques déposées d'Apple Inc. aux États-Unis et/ou dans d'autres pays. Les autres marques, marques de services, graphismes et logos, utilisés en relation avec les Stores peuvent être des marques commerciales de leurs propriétaires respectifs. Il ne vous est accordé aucun droit ni licence sur les marques susmentionnées, ni sur leur utilisation.
+
+RÉSILIATION
+
+En cas de manquement de votre part, ou si iTunes a des raisons sérieuses de penser que vous n'avez pas respecté une disposition quelconque du présent Contrat, iTunes pourra, à sa seule discrétion et sans préavis : (i) résilier le présent Contrat et/ou votre Compte, auquel cas vous resterez redevable de toutes les sommes dues portées à votre Compte, jusqu'à la date de résiliation comprise ; et/ou (ii) résilier la licence du logiciel ; et/ou (iii) vous interdire l'accès à tout ou partie des Stores.
+
+iTunes se réserve le droit de modifier, suspendre ou mettre fin aux Stores (ou toute partie ou contenu des Stores) à tout moment, sans que la responsabilité de iTunes ne puisse être engagée envers vous ou tout tiers. Dans la mesure du possible, iTunes vous informera par avance de toute modification, suspension ou cessation des Stores. La résiliation des Stores n'affectera pas les Produits dont vous avez déjà acquis une licence. Toutefois, il se peut que vous ne puissiez plus autoriser des ordinateurs supplémentaires à utiliser les Produits.
+
+EXCLUSIONS DE GARANTIES ; LIMITATIONS DE RESPONSABILITÉ
+
+a. iTunes fournira les Stores avec diligence et dans le respect des règles de l’art. iTunes ne donne aucun autre engagement ni aucune autre garantie concernant les Stores et, en particulier, ne garantit pas que :
+
+(i) votre utilisation des Stores se fera sans interruption ni sans erreur. Vous acceptez que iTunes suspende de temps en temps l'accès aux Stores pendant des périodes non prédéfinies ou mette un terme à tout moment aux Stores pour des raisons techniques ou opérationnelles ; dans la mesure du possible, iTunes vous en informera préalablement ;
+
+(ii) les Stores seront à l'abri de pertes, dommages, attaques, virus, interférences, piratages ou autres atteintes à la sécurité qui constitueront des événements de Force Majeure et iTunes décline toute responsabilité pour toutes conséquences dommageables qui en résulteraient. Certains Produits ne peuvent être téléchargés qu’une seule fois ; une fois téléchargés, ils ne peuvent pas être remplacés en cas de perte pour quelque raison que ce soit. Vous êtes responsable de la sauvegarde de votre propre système, y compris tous Produits achetés auprès des Stores.
+
+b. Sauf dans les cas indiqués au paragraphe (d) ci-dessous ou dans le cas où vous exercez un droit à remboursement ou à compensation qui vous est conféré par la loi, iTunes, ses dirigeants, cadres, salariés, membres affiliés, agents, contractants ou concédants de licence ne pourront en aucun cas être tenus pour responsables de perte ou dommage causé par iTunes, ses salariés ou agents lorsque :
+
+(i) il n’y a pas manquement à une obligation légale de précaution envers vous de la part de iTunes ou de ses salariés ou agents ;
+
+(ii) cette perte ou ce dommage ne constitue pas une conséquence raisonnablement prévisible d’un tel manquement ;
+
+(iii) toute aggravation de cette perte ou ce dommage résulte d’un manquement de votre part, de quelque nature que ce soit, à l’une des dispositions du présent Contrat ;
+
+(iv) cette perte ou ce dommage résulte de la décision prise par iTunes, au cours de l’enquête sur une violation présumée du présent Contrat ou après le constat par iTunes qu’une violation du présent Contrat est intervenue, de supprimer ou de refuser de traiter une information ou un contenu, de vous avertir, de suspendre ou de résilier votre accès aux Stores ou de prendre toute autre mesure ; ou
+
+(v) cette perte ou ce dommage résulte d’une perte de revenu, d’activité ou de bénéfice ou d’une perte ou une corruption de données qui résulterait de votre utilisation des Stores.
+
+c. iTunes devra mettre en œuvre des moyens raisonnables pour protéger l’information que vous fournissez en relation avec les Stores, y compris contre toute utilisation frauduleuse.
+
+d. Aucune disposition du présent Contrat n’exclut ni ne limite la responsabilité de iTunes en cas de fraude, de faute lourde, de faute volontaire, de mort ou de préjudice corporel.
+
+e. Si vous violez le présent Contrat, vous serez responsable envers iTunes, ses dirigeants, cadres, salariés, membres affiliés, agents, contractants ou concédants de licence pour toute plainte résultant d’une violation de votre part. Vous serez également responsable de toute action engagée par iTunes dans le cadre d’une enquête concernant une violation présumée du présent Contrat ou résultant de la découverte ou de la conclusion qu’une violation du présent Contrat a été commise.
+
+MODIFICATIONS
+
+iTunes se réserve le droit à tout moment de modifier le présent Contrat et d’imposer des conditions nouvelles ou supplémentaires concernant votre utilisation des Stores. Ces modifications et conditions supplémentaires vous seront communiquées et, si vous les acceptez, entreront en vigueur immédiatement et seront incorporées au présent Contrat. Si vous refusez d'accepter ces modifications, iTunes pourra résilier le Contrat.
+
+DIVERS
+
+Le présent Contrat constitue l'intégralité de l'accord entre vous et iTunes et régit votre utilisation des Stores ; il annule et remplace tous accords préalables entre vous et iTunes. Vous pourrez également être soumis à des dispositions complémentaires applicables si vous utilisez des services associés, certains Produits, un contenu ou un logiciel fourni par un tiers. Si une disposition du présent Contrat est considérée nulle ou non opposable, cette disposition sera interprétée conformément au droit applicable afin de se rapprocher au mieux de la commune intention des parties, et les autres dispositions resteront en vigueur. Le fait pour iTunes de ne pas faire appliquer un droit ou une disposition découlant du présent Contrat ne constituera pas une renonciation envers une telle disposition ou toute autre disposition. iTunes ne sera pas tenu responsable en cas d'impossibilité de remplir ses obligations en raison de faits indépendants de sa volonté.
+
+Les Stores sont édités par iTunes depuis le Luxembourg. Vous acceptez de vous conformer à toutes les lois, ordonnances et réglementations locales, d’État, fédérales et nationales applicables à votre utilisation des Stores. Le présent Contrat et l’utilisation des Stores sont régis par le droit français.
+
+iTunes pourra vous envoyer des notifications concernant les Stores par courriel, à l’adresse indiquée dans votre Compte, par lettre envoyée par courrier postal à l’adresse indiquée dans votre Compte ou par affichage sur les Stores. Les notifications prendront effet immédiatement.
+
+iTunes se réserve le droit de prendre les mesures qu’elle juge raisonnablement nécessaires ou appropriées pour faire appliquer et/ou vérifier le respect de tout ou partie du présent Contrat. Vous reconnaissez que iTunes a le droit, sans engager sa responsabilité à votre égard, de divulguer les Données d'Inscription et/ou les informations de Comptes aux autorités, aux représentants du gouvernement et/ou à des tiers, si iTunes l'estime raisonnablement nécessaire ou approprié pour faire appliquer et/ou vérifier le respect de toute disposition du présent Contrat (y compris notamment le droit de iTunes de coopérer dans le cadre de toute procédure judiciaire relative à votre utilisation des Stores et/ou des Produits, et/ou sur réclamation de tiers relative à votre utilisation illicite des Stores et/ou des Produits ou en violation de droits de ces tiers).
+
+À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 8 rue Heinrich Heine, L-1720 Luxembourg.
+
+CONDITIONS GÉNÉRALES COMPLÉMENTAIRES MAC APP STORE ET APP STORE
+
+LICENCE DE PRODUITS MAC APP STORE ET APP STORE
+
+iTunes vous concède une licence d’utilisation des produits logiciels disponibles par l’intermédiaire de Mac App Store et d’App Store (collectivement, les « Produits App Store »). Il y a deux (2) catégories de Produits App Store, comme suit : (i) les Produits App Store développés par Apple, et qui vous sont concédés sous licence par iTunes (« Produits Apple ») ; et (ii) les Produits App Store développés et qui vous sont concédés sous licence par un développeur tiers (« Produits Tiers »). La catégorie à laquelle appartient un Produit App Store particulier (Produit Apple ou Produit Tiers) est indiquée sur l’application Mac App Store ou sur l’application App Store.
+
+La licence que vous détenez sur chaque Produit App Store est soumise au Contrat de Licence Utilisateur Final relatif à l'Application sous Licence figurant ci-dessous et vous acceptez que ces dispositions s'appliquent sauf si le Produit App Store est couvert par un contrat de licence utilisateur final valable conclu entre vous et l’éditeur de ce Produit App Store (l’ « Éditeur »), auquel cas le contrat de licence utilisateur final de l’Éditeur s’appliquera à ce Produit App Store. L’Éditeur se réserve tous les droits sur le Produit App Store qui ne vous sont pas expressément accordés.
+
+Vous reconnaissez que la licence que vous obtenez sur chaque Produit Apple par l'intermédiaire de Mac App Store ou d’App Store constitue un contrat ayant force obligatoire intervenant uniquement entre vous et iTunes. Vous reconnaissez que : une fois un Produit Tiers acquis auprès de iTunes, vous concluez directement avec l’Éditeur de ce Produit Tiers un contrat ayant force obligatoire intervenant entre vous et l’Éditeur de ce Produit Tiers régissant votre utilisation de ce Produit Tiers ; et que iTunes n’est pas partie à la licence établie entre vous et l’Éditeur concernant ce Produit Tiers. L’Éditeur de chaque Produit Tiers est seul responsable de ce Produit Tiers, de son contenu et de toutes garanties dans la mesure où ces garanties n’ont pas été exclues, ainsi que toute réclamation que vous ou toute autre partie pouvez effectuer concernant ce Produit Tiers.
+
+Vous reconnaissez et acceptez que iTunes et ses sociétés affiliées soient des bénéficiaires tiers du Contrat de Licence Utilisateur Final relatif à l’Application sous Licence ou du contrat de licence utilisateur final de l’Éditeur, selon le cas, pour chaque Produit Tiers. Vous acceptez également que, du fait de votre acceptation des modalités de la licence de ce Produit Tiers, iTunes ait le droit (et sera présumé avoir accepté ce droit) de faire appliquer une telle licence à votre encontre en qualité de bénéficiaire tiers de cette licence.
+
+ACHATS IN-APP
+
+Certains Produits App Store peuvent contenir des fonctionnalités vous permettant de recevoir des services supplémentaires, ou des licences couvrant des fonctionnalités supplémentaires ou des contenus supplémentaires destinés à être utilisés avec le Produit App Store (« Achats In-App »). Les Achats In-App qui sont consommés lors de l’utilisation du Produit App Store (par exemple, munition virtuelle) ne peuvent pas être transférés sur d’autres équipements; sont téléchargeables une seule fois ; et une fois le téléchargement effectué, ne peuvent être remplacés. Une fois que vous avez réalisé l’acquisition d’un Achat In App consommable et que vous l’avez réceptionné, la responsabilité de iTunes à votre égard quant aux risques de perte, destruction ou dommages de ces Achats In-App sera dégagée. Tous les Achats In-App sont considérés comme étant des Produits App Store, et les Achats In-App reçus parmi les Produits Tiers sont considérés comme étant des Produits Tiers, et suivent le régime qui s’y applique, tel que prévu aux présentes conditions générales.
+
+Vous devez vous authentifier pour acquérir des Achats In-App séparément de tout autre authentification permettant d’obtenir des Produits App Store en entrant votre mot de passe lorsqu’il est demandé, mais dès lors que vous vous êtes authentifié afin d’obtenir un Achat In-App, vous pourrez acquérir des Achats In-App supplémentaires pendant quinze minutes sans entrer votre mot de passe à nouveau. Vous pouvez désactiver la faculté de d’acquérir des Achats In App sur votre Appareil iOS en ajustant les paramètres de votre Appareil iOS, en sélectionnant « Général » puis en sélectionnant « Restrictions », comme indiqué à l’adresse suivante : http://support.apple.com/kb/HT4213.
+
+ABONNEMENTS IN-APP
+
+Certains Produits App Store incluent une fonctionnalité qui vous permettra d'acquérir du contenu sur la base d'un abonnement (« Abonnements In-App »). Les Abonnements In-App seront reconduits automatiquement pour la période applicable que vous avez sélectionnée et, le cas échéant votre Compte sera débité 24 heures au maximum avant l'expiration de l'Abonnement In-App en cours. Vous pouvez annuler la reconduction automatique des Abonnements In-App payants en sélectionnant Gérer Mes Abonnements App dans votre Compte et en sélectionnant l'abonnement que vous voulez modifier. La fonctionnalité de reconduction automatique sera désactivée en cas d’augmentation du prix de l’abonnement par l’Editeur. Vous pouvez annuler les Abonnements In-App gratuits en supprimant le Produit App Store de votre appareil. Certains Abonnements In-App payants proposent une période d'essai gratuite avant la souscription. Si vous décidez de souscrire à un Abonnement In-App payant avant la fin de la période d'essai gratuite, votre Abonnement In-App payant prendra effet immédiatement. Certains Abonnements In-App peuvent être désignés comme des produits « Newsstand » (« Kiosque ») , auquel cas ils apparaîtront uniquement sous l’application Newsstand sur votre appareil après le téléchargement. Veuillez également revoir les informations complémentaires sur l’offre relative aux Abonnements In-App payants au point de vente au sein du Produit App Store. Il est possible que nous vous demandions l'autorisation de communiquer le nom, l'adresse e-mail et le code postal associés à votre Compte à l'Éditeur afin que ce dernier puisse vous envoyer des messages promotionnels concernant ses produits conformément à sa politique de confidentialité. Une fois ces informations en possession de l'Éditeur, elles seront traitées conformément à sa politique de confidentialité mise en ligne au public. Nous vous encourageons à vous informer sur les pratiques de l'Éditeur en matière de confidentialité avant d'accepter de lui communiquer vos données personnelles. Pour de plus amples renseignements, veuillez consulter la politique de confidentialité de l'Éditeur ou contactez-le directement. Les remboursements (qui seront calculés au prorata afin de prendre en compte le contenu de l'Abonnement In-App que vous avez déjà reçu) sont possibles dans un délai de 14 jours civils à compter de la souscription de l'Abonnement In-App après complétion du formulaire électronique disponible sur http://www.apple.com/fr/support/itunes/. Aucun autre remboursement, retour ou aucune autre annulation après la souscription.
+
+GENIUS POUR APPS
+
+Lorsque vous choisissez d’activer la fonctionnalité Genius pour Apps, Apple collectera, ponctuellement et de manière automatique, des informations relatives à certains de vos Produits App Store, telles que le temps passé sur chaque Produit App Store et la fréquence d’activation de chacun d’entre eux. Ces données seront conservées de façon anonyme et ne seront pas associées à votre nom ou votre Compte. Lorsque vous utilisez la fonctionnalité Genius pour Apps, Apple utilisera ces données, ainsi que d’autres données, telles que l’historique de vos téléchargements de Produits App Store, pour vous livrer des recommandations personnalisées.
+
+Apple pourra utiliser ces données et les combiner avec des données agrégées collectées auprès d’autres utilisateurs ayant activé cette fonction, avec votre historique d’achats sur l’iTunes Store, avec les données associées à vos téléchargements sur l’App Store, avec les informations relatives aux téléchargements de produits App Store d’autres utilisateurs, et avec d’autres informations telles que les classements par les clients des Produits App Store, afin de:
+
+• vous faire des recommandations sur les Produits App Store, médias et autres produits et services que vous pourrez souhaiter acheter, télécharger ou utiliser.
+
+• faire des recommandations à d’autres utilisateurs.
+
+A tout moment, vos données seront traitées conformément à l’Engagement de Confidentialité d’Apple.
+
+Lorsque vous aurez activé la fonctionnalité Genius pour Apps sur un système doté de la fonction Genius, vous pourrez générer des recommandations Genius sur ce système.
+
+Si vous ne souhaitez pas que nous collections et utilisions les données de votre appareil ou système dans les conditions décrites aux présentes, vous ne devez pas activer la fonctionnalité Genius. Vous pouvez à tout moment revenir sur votre décision d’utiliser Genius, en désactivant la fonctionnalité Genius qui s’affiche sur la page relative au Compte App Store de votre appareil. Si vous avez choisi de partager les données relatives à Genius pour Apps sur plusieurs ordinateurs et/ou systèmes, vous devez désactiver la fonctionnalité Genius de chacun de ces ordinateurs et systèmes.
+
+REGLES D'UTILISATION DES PRODUITS MAC APP STORE
+
+Sauf stipulation contraire dans les présentes,
+
+(i) Si vous êtes une personne agissant à titre personnel, vous êtes autorisé à télécharger et à utiliser une application de Mac App Store (« Produit Mac App Store ») à des fins personnelles et non-commerciales sur tout produit de la marque Apple tournant sur Mac OS X (« Ordinateur Mac ») dont vous êtes propriétaire ou que vous contrôlez.
+
+(ii) Si vous êtes une société commerciale ou un établissement scolaire, vous êtes autorisé à télécharger un Produit Mac App Store destiné à être utilisé soit (a) par une seule personne sur chacun des Ordinateurs Mac utilisé par cette personne et dont vous êtes le propriétaire ou que vous contrôlez , ou (b) par plusieurs personnes sur un Ordinateur Mac partagé dont vous êtes propriétaire ou que vous contrôlez. Par exemple, un seul salarié peut utiliser un Produit Mac App Store sur son Ordinateur Mac de bureau et sur son Ordinateur Mac portable, ou plusieurs étudiants peuvent utiliser en série le Produit Mac App Store sur un seul Ordinateur Mac situé dans un centre de ressources ou une bibliothèque. Par souci de clarté, chaque Ordinateur Mac utilisé en série par plusieurs utilisateurs nécessite une licence distincte.
+
+(iii) L’utilisation des produits Mac App Store peut nécessiter que vous vous connectiez avec l’Apple ID utilisé pour télécharger le Produit Mac App Store depuis le Mac App Store. Les Produits Mac App Store ne peuvent être mis à jour que via le Mac App Store.
+
+RÈGLES D’UTILISATION DES PRODUITS APP STORE
+
+(i) Si vous êtes une personne agissant à titre personnel, vous êtes autorisé à télécharger et synchroniser un Produit App Store à des fins personnelles et non commerciales sur tout Appareil iOS que vous possédez ou contrôlez.
+
+(ii) Si vous êtes une société commerciale ou un établissement scolaire, vous êtes autorisé à télécharger et synchroniser un Produit App Store destiné à être utilisé soit (a) par une seule personne sur un ou plusieurs Appareils iOS que vous possédez ou que vous contrôlez et utilisé par cette personne, soit (b) par plusieurs personnes sur un Appareil iOS partagé dont vous êtes propriétaire ou que vous contrôlez. Par exemple, un seul salarié peut utiliser un Produit App Store aussi bien sur son iPhone que sur son iPad, ou encore, plusieurs étudiants peuvent utiliser un Produit App Store en série sur un seul iPad situé dans un centre de ressources ou une bibliothèque. Par souci de clarté, chaque Appareil iOS utilisé en série par plusieurs utilisateurs nécessite une licence distincte.
+
+(iii) Vous pourrez simultanément stocker des Produits App Store à partir d’un nombre maximum de cinq Comptes différents sur un Appareil iOS compatible.
+
+(iv) Vous pourrez procéder à la synchronisation manuelle de Produits App Store à partir d’un ou plusieurs appareils autorisés par iTunes vers des Appareils iOS munis d’un mode de synchronisation manuel, à condition que le Produit App Store soit associé à un Compte existant sur l’appareil principal autorisé par iTunes, étant précisé que l’appareil principal est celui qui a été synchronisé en premier avec l’Appareil iOS ou celui que vous avez ultérieurement désigné comme tel en utilisant l’application iTunes.
+
+JEUX IPOD
+
+Des mises à jour de votre micro logiciel iPod compatible peuvent rendre la version achetée d’un Jeu incompatible avec ledit iPod. Les jeux achetés auprès de iTunes Store peuvent ne pas être compatibles avec les futures générations d’iPod.
+
+MAINTENANCE ET ASSISTANCE CONCERNANT LES PRODUITS MAC APP STORE ET APP STORE
+
+iTunes sera responsable de la fourniture de services de maintenance et d’assistance concernant les Produits Apple uniquement, tel que cela est indiqué dans le Contrat de Licence Utilisateur Final relatif à l’Application sous Licence ou dans le contrat de licence utilisateur final distinct, selon le cas, ou tel que cela est requis en vertu de la loi applicable. L’Éditeur d’un Produit Tiers sera seul responsable de la fourniture de services de maintenance et d’assistance concernant ce Produit, tel que cela est indiqué dans le Contrat de Licence Utilisateur Final relatif à l’Application sous Licence ou dans le contrat de licence utilisateur final de l’Éditeur, selon le cas, ou tel que cela est requis en vertu de la loi applicable.
+
+CONTRAT DE LICENCE UTILISATEUR FINAL RELATIF A L’APPLICATION SOUS LICENCE
+
+Les Produits Mac App Store et App Store (collectivement, les « Produits App Store ») disponibles par le biais de Mac App Store et d’App Store (collectivement, les « App Stores ») ne vous sont pas vendus mais vous sont concédés sous licence. La licence qui vous est concédée pour chaque Produit App Store par le biais des App Stores est soumise à votre acceptation préalable du présent Contrat de Licence Utilisateur Final (« CLUF Standard »), relatif à l’Application sous Licence et vous acceptez que les dispositions de ce CLUF Standard relatif à l’Application sous Licence s’appliquent à chacun des Produits App Store qui vous sont concédés sous licence par le biais des App Stores; sauf si le Produit App Store est couvert par un contrat de licence d’utilisateur final valable conclu entre vous et l’Éditeur dudit produit , auquel cas les termes de ce contrat de licence utilisateur final spécifique prévaudront.
+
+Votre contrat de licence pour tout Produit Apple en vertu du CLUF Standard ou d’un contrat séparé de licence utilisateur final relatif à l’Application sous Licence vous est concédé par iTunes et votre contrat de licence pour tout Produit Tiers en vertu du CLUF Standard ou d’un contrat séparé de licence utilisateur final relatif à l’Application sous Licence vous est concédé par l’Éditeur dudit Produit tiers. Tout produit App Store concédé sous licence en vertu du présent CLUF Standard relatif à l’Application sous Licence est désigné aux présentes sous le nom de « Application sous Licence ». L’Éditeur ou iTunes (le « Concédant »), le cas échéant, se réserve tous les droits sur l’Application sous Licence qui ne vous sont pas expressément accordés en vertu du présent CLUF Standard relatif à l’Application sous Licence.
+
+a. Champ d’application de la licence. La présente licence qui vous est concédée par le Concédant pour l’Application sous Licence est limitée à une licence non transférable aux fins d’utiliser l’Application sous Licence sur tout produit de marque Apple tournant sur iOS (y compris, notamment, un iPad, un iPhone ou un iPod touch) (« Appareils iOS ») ou sur Mac OS X (« Ordinateurs Mac »), le cas échéant (collectivement, les « Equipements Apple ») dont vous êtes propriétaire ou que vous contrôlez, et dans les conditions précisées par les Règles d’Utilisation prévues par les Conditions Générales Mac App Store, App Store et iBookstore (les « Règles d’Utilisation »). La présente licence ne vous autorise pas à utiliser l’Application sous Licence sur un quelconque Equipement Apple dont vous n’êtes pas propriétaire ou que vous ne contrôlez pas et, sauf stipulation contraire dans les Règles d’Utilisation, vous ne pouvez pas distribuer ou diffuser l’Application sous Licence sur un réseau où elle pourrait être utilisée simultanément par de multiples dispositifs. Vous ne pouvez pas louer, donner en crédit-bail, prêter, vendre, céder, redistribuer ou concéder une sous-licence de l’Application sous Licence et vous devez effacer l’Application sous Licence de l’Ordinateur Mac ou de l’Appareil iOS avant toute vente de cet Ordinateur Mac ou Appareil iOS à un tiers. Vous ne pouvez pas copier (sauf dans les conditions expressément prévues par la présente licence et les Règles d’Utilisation), décompiler, effectuer l’ingénierie inverse, désassembler, tenter de dériver le code source, modifier ou créer des œuvres dérivées à partir de tout ou partie de l’Application sous Licence ou de ses mises à jours (excepté et uniquement dans la mesure où l'une quelconque des restrictions précédentes est interdite par la loi applicable ou dans la mesure de ce qui est autorisé par les conditions de licence régissant l'utilisation de tout composant d'un logiciel libre intégré dans l'Application sous Licence). Toute tentative d'agir de la sorte est constitutive d'une violation des droits du Concédant et de ses concédants de licence. Si vous contrevenez à cette restriction, vous pouvez faire l'objet de poursuites judiciaires et à des dommages et intérêts.
+
+Les dispositions de la présente licence régiront toute mise à niveau fournie par le Concédant qui remplace et/ou s'ajoute à l’Application sous Licence originale, sauf si une telle mise à niveau est accompagnée d'une licence distincte, auquel cas les dispositions de cette licence s'appliqueront.
+
+b. Consentement à l'utilisation des données. Vous acceptez que le Concédant puisse collecter et utiliser les données techniques et toute information associée, y compris, notamment, les informations techniques concernant votre dispositif, votre système et votre logiciel d'application, ainsi que les périphériques, et qui sont recueillies périodiquement afin de faciliter la fourniture de mises à jour de logiciels, de services d'assistance technique relative au produit, ainsi que d'autres services (le cas échéant) se rapportant à l'Application sous Licence. Le Concédant peut utiliser ces informations aussi longtemps qu'elles sont sous une forme ne permettant pas de vous identifier personnellement, afin d'améliorer ses produits ou de vous fournir des services ou des technologies.
+
+c. Résiliation. La licence reste en vigueur jusqu'à sa résiliation à votre initiative ou par le Concédant. Les droits concédés au titre de la présente licence prendront fin immédiatement sans notification de la part du Concédant si vous ne respectez pas l'une quelconque des dispositions de la présente licence. En cas de résiliation de la licence, vous devrez cesser toute utilisation de l'Application sous Licence, et détruire toutes les copies, intégrales ou partielles, de l'Application sous Licence.
+
+d. Services ; Éléments Tiers. L'Application sous Licence peut permettre l'accès aux services et aux sites Internet du Concédant et/ou de tiers (collectivement et individuellement, les « Services Externes »). L'utilisation des Services Externes nécessite un accès à Internet et l’utilisation de certains Services Externes nécessite votre acceptation de conditions générales supplémentaires.
+
+Vous reconnaissez qu'en utilisant tout ou partie des Services Externes, vous pouvez être exposé à un contenu pouvant être considéré comme choquant, indécent, ou inapproprié, lequel contenu peut on non faire l'objet d'une mention selon laquelle il contient un langage explicite, et que les résultats de toute recherche ou la saisie d'un URL particulier peut automatiquement et de façon non intentionnelle générer des liens ou des références à un contenu inapproprié. Néanmoins, vous acceptez d'utiliser les Services Externes à vos risques et que ni le Concédant ni ses agents n’assument de responsabilité envers vous relativement à tout contenu pouvant être considéré comme choquant, indécent ou inapproprié.
+
+Certains Services Externes peuvent afficher, inclure ou mettre à disposition un contenu, des données, des informations, des applications ou des éléments émanant de tiers (« Éléments Tiers ») ou fournir des liens vers certains sites Internet tiers. En utilisant les Services Externes, vous reconnaissez et acceptez que ni le Concédant ni ses agents n'ont d'obligation d'examiner ou d'évaluer le contenu, l'exactitude, le caractère complet, le caractère opportun, la validité, le respect du droit d'auteur, la légalité, le caractère décent, la qualité ou tout autre aspect de tels Éléments Tiers ou sites Internet tiers. Le Concédant, ses agents, représentants, les sociétés affiliées et les filiales ne garantissent pas, n'endossent pas, n'assument et n'engagent pas leur responsabilité envers vous ou toute autre personne relativement à un quelconque Service Externe, Élément Tiers ou site Internet tiers, ni relativement à tout autre élément, produit ou service émanant de tiers. Les Éléments Tiers et les liens vers d'autres sites Internet ne vous sont fournis qu'à des fins de commodité.
+
+Les informations financières affichées par un quelconque Service Externe n'y figurent qu'à des fins d’information et ne doivent pas servir de conseil en matière d'investissement. Avant d'exécuter des opérations sur titre en se fondant sur les informations obtenues par l'intermédiaire des Services Externes, vous devriez consulter un professionnel de la finance légalement qualifié pour donner de tels conseils dans votre pays ou dans votre région. Les données relatives à la position géographique fournies par quelque Service Externe que ce soit ne sont destinées qu'à des fins de navigation basiques et ne sont pas destinées à servir dans des situations pour lesquelles des informations précises en matière de position géographique sont requises ou lorsque des données erronées, inexactes, en retard ou incomplètes en matière de positionnement géographique peuvent entraîner le décès, un préjudice corporel, un dommage aux biens ou à l'environnement. Ni le Concédant, ses agents ou l’un quelconque de ses fournisseurs de contenu ne garantit la disponibilité, l'exactitude, le caractère complet, la fiabilité ou le caractère opportun des informations boursières ou des données en matière de position géographique ou toutes autres données affichées par l'un quelconque des Services Externes.
+
+Vous acceptez que les Services Externes puissent contenir un contenu, des informations et des éléments détenus par le Concédant et/ou ses agents ou ses propres concédants, et protégés par la législation relative à la propriété intellectuelle et d'autres lois applicables, y compris, notamment, le droit d'auteur, et vous acceptez de ne pas utiliser un tel contenu, de telles informations ou éléments de quelque façon que ce soit, sauf dans le cadre de l’utilisation autorisée des Services Externes, ou de toute façon qui ne serait pas conforme aux stipulations du CLUF Standard ou qui enfreint les droits de propriété intellectuelle d’un tiers, de iTunes ou d’Apple. Aucune partie des Services Externes ne peut être reproduite sous quelque forme que ce soit ou par quelque moyen que ce soit. Vous acceptez de ne pas modifier, louer, donner en crédit-bail, prêter, vendre, distribuer ou créer des œuvres dérivées à partir des Services Externes, de quelque manière que ce soit et vous vous interdisez d’exploiter les Services Externes d’une façon non autorisée quelle qu’elle soit, y compris, notamment, en utilisant les Services Extérieurs pour diffuser des virus, vers, cheval de Troie ou autre malware, ou au moyen d’une intrusion ou en surchargeant la capacité du réseau. Vous acceptez également de ne pas utiliser les Services Externes d’une quelconque façon pouvant être constitutive de harcèlement, d’abus, de traque, de menace, de diffamation ou qui violerait d’une autre manière les droits de toute autre partie. Vous acceptez que ni le Concédant ni ses agents ne soient en aucun cas responsable d’une telle utilisation de votre part, ni des messages ou transmissions à caractère harcelant, menaçant, diffamatoire, offensant, contrefaisant ou illégal que vous pouvez recevoir en conséquence de l’utilisation d’un quelconque Service Externe.
+
+En outre, les Services Externes et les Éléments Tiers auxquels il est possible d’avoir accès, qui peuvent être affichés sur les Equipements Apple ou reliés vers ou à partir des Equipements Apple ne sont pas disponibles dans toutes les langues ou dans tous les pays ou régions. Le Concédant ne fait aucune déclaration selon laquelle de tels Services Externes et Éléments sont appropriés et disponibles à des fins d’utilisation dans un lieu particulier quel qu’il soit. Dans la mesure où vous choisissez d’utiliser ou d'accéder à de tels Services Externes et Éléments, vous le faites de votre propre initiative et êtes responsable du respect de toute loi applicable, y compris, de façon non limitative, des lois locales applicables. Le Concédant se réserve le droit de modifier, suspendre, retirer ou désactiver l'accès à l’un quelconque des Services Externes, à tout moment et sans préavis. Le Concédant ne sera en aucun cas responsable du retrait ou de la désactivation de l'accès à un tel Service Externe. Le Concédant peut également imposer des limites concernant l'utilisation ou l'accès à certains Services Externes, quelle que soit la situation et sans préavis ni responsabilité.
+
+e. EXCLUSION DE GARANTIE : Le Concédant fournira l’Application sous Licence et tout Service Externe exécuté ou fourni par le Concédant (les « Services ») avec diligence et dans le respect des règles de l’art. Le Concédant ne donne aucun autre engagement ni aucune autre garantie concernant les Services Externes et, en particulier, ne garantit pas que :
+
+(i) votre utilisation des Services Externes se fera sans interruption ni sans erreur;
+
+(ii) les Services Externes seront à l’abri de pertes, dommages, attaques, virus, interférences, piratages ou autres atteintes à la sécurité et le Concédant décline toute responsabilité à cet égard. Vous êtes responsable de la sauvegarde de votre propre système, y compris de toute Application sous Licence stockée dans votre système.
+
+f. Limitation de responsabilité.
+
+(i) Sauf dans les cas indiqués en section (ii) ci-dessous, le Concédant, ses dirigeants, cadres, salariés, membres affiliés, mandataires, fournisseurs ou concédants de licence ne pourront en aucun cas être tenus pour responsables de perte ou dommage causé par le Concédant, ses salariés ou mandataires lorsque :
+
+(1) il n’y a pas de manquement à une obligation légale de précaution envers vous de la part du Concédant ou de ses salariés ou agents ;
+
+(2) cette perte ou ce dommage ne constitue pas une conséquence raisonnablement prévisible d’un tel manquement ;
+
+(3) cette perte ou ce dommage a été aggravé par un manquement de votre part, de quelque nature que ce soit, à l’une des dispositions du présent Contrat de Licence Utilisateur Final (le « Contrat ») ;
+
+(4) cette perte ou ce dommage résulte de la décision prise par le Concédant, au cours de l’enquête sur une violation présumée du présent Contrat ou après le constat par le Concédant qu’une violation du présent Contrat est intervenue, de vous mettre en garde, de suspendre ou de résilier votre accès aux Services Externes, ou de prendre toute autre mesure.
+
+(5) cette perte ou ce dommage résulte d’une perte de revenu, d’activité ou de bénéfice, ou d’une perte ou une corruption de données qui résulterait de votre utilisation de l’Application sous Licence.
+
+(ii) Aucune disposition du présent Contrat ne vise à exclure ou à limiter la responsabilité du Concédant en cas de fraude, de faute lourde, de faute volontaire, de décès ou de préjudice corporel.
+
+g. Vous vous engagez à ne pas utiliser, exporter ou réexporter l'Application sous Licence, sauf dans les conditions prévues par le droit des États-Unis et le droit de la juridiction où l'Application sous Licence a été obtenue. En particulier, mais de façon non limitative, l'Application sous Licence ne doit pas être exportée ni réexportée a) vers des pays faisant l'objet d'un embargo imposé par les États-Unis ou b) à quiconque figure sur la liste des « Specially Designated Nationals » (Personnes Spécialement Désignés) du Département du Trésor des États-Unis ou sur la liste des « Denied Persons » (Personnes Bannies) du Département du Commerce des États-Unis ou sur la « Entity List » (Liste des Entités). En utilisant l'Application sous Licence, vous déclarez et garantissez que vous n’êtes pas situé dans un tel pays ou sur une telle liste. Vous acceptez également de ne pas utiliser ces produits à des fins prohibées par le droit des États-Unis, en ce compris, sans toutefois s’y limiter, le développement, la conception, la fabrication ou la production d'armes nucléaires, de missiles ou d'armes chimiques ou biologiques.
+
+h. L'Application sous Licence et les documents afférents constituent des « Biens commerciaux », selon la définition de ce terme prévue à l'article 48 du C.F.R. §2.101, consistant en un « Logiciel Informatique Commercial » et une « Documentation relative à un Logiciel Informatique Commercial », selon l’utilisation de ces termes prévue à l'article 48 C.F.R. §12.212 ou 48 C.F.R. §227.7202, le cas échéant. Conformément à l’article 48 C.F.R. §12.212 ou 48 C.F.R. §227.7202-1 à 227.7202-4, le cas échéant, le Logiciel Informatique Commercial et la Documentation relative à un Logiciel Informatique Commercial sont concédés sous licence aux utilisateurs finaux du gouvernement américain (a) uniquement en tant que Biens Commerciaux et (b) uniquement assortis des droits qui sont concédés à tous les utilisateurs finaux, conformément aux conditions générales des présentes. Droits non publiés réservés en vertu des lois des États-Unis relatives au droit d'auteur.
+
+i. Le droit français régit la présente licence et votre utilisation de l'Application sous Licence. Votre utilisation de l'Application sous Licence peut également être soumise à d’autres lois locales, provinciales, nationales ou internationales.
+
+CONDITIONS COMPLÉMENTAIRES IBOOKSTORE
+
+LICENCE DE PRODUITS IBOOKSTORE
+
+Vous reconnaissez qu’iTunes vous concède une licence d’utilisation du contenu mis à votre disposition par le biais de l’iBookstore (les « Produits iBookstore »). À compter de son achat sur iTunes, cette licence constitue un contrat ayant force obligatoire établi entre vous et le fournisseur tiers du Produit iBookstore concerné (« l’Éditeur ») régissant votre utilisation d’un tel Produit iBookstore ; iTunes n’est pas partie au contrat de licence conclu entre vous et l’Éditeur relativement audit Produit iBookstore ; l’Éditeur de chaque Produit iBookstore se réserve le droit d’appliquer les conditions d’utilisation relatives à ce Produit iBookstore. L’Éditeur de chaque Produit iBookstore est seul responsable de ce Produit iBookstore de son contenu, de toutes garanties, dans la mesure où ces garanties n’ont pas été exclues, ainsi que toute réclamation que vous ou toute autre partie pouvez effectuer concernant ce Produit iBookstore ou son utilisation.
+
+Vous reconnaissez que tout Produit iBookstore acheté sur un ordinateur donné ne sera pas visible sur un autre ordinateur, et sera visible uniquement sur un Appareil iOS avec un logiciel compatible.
+
+RÈGLES D’UTILISATION DES PRODUITS IBOOKSTORE
+
+(i) Vous êtes autorisé à utiliser les Produits iBookstore uniquement pour un usage personnel et non commercial.
+
+(ii) Vous pourrez simultanément stocker les Produits iBookstore à partir d’un nombre maximum de cinq Comptes différents, sur certains équipements iOS, tels qu’un iPad, un iPod touch ou un iPhone.
+
+(iii) Vous pourrez simultanément stocker les Produits iBookstore sur un nombre maximum de cinq appareils (tel qu'un ordinateur) autorisés par iTunes.
+
+(iv) La fourniture des Produits iBookstore n'implique aucune concession de droits d'utilisation promotionnelle sur les Produits iBookstore, ni aucun droit permettant la gravure desdits Produits iBookstore sur des disques.
+
+(v) Vous pourrez procéder à la synchronisation manuelle de Produits iBookstore à partir d’un ou plusieurs appareils autorisés par iTunes, vers des appareils munis d’un mode de synchronisation manuel, à condition que le Produit iBookstore soit associé à un Compte existant sur l’appareil principal autorisé par iTunes, étant précisé que l’appareil principal autorisé par iTunes est celui qui a été synchronisé en premier avec l'appareil, ou celui que vous avez ultérieurement désigné comme tel en utilisant l'application iTunes.
+
+Dernière mise à jour : 12 Octobre 2011
+
+D. ENGAGEMENT DE CONFIDENTIALITE
+
+La protection de votre vie privée est importante pour Apple. Le présent engagement de confidentialité s’applique à la façon dont nous collectons, utilisons, divulguons, transférons et conservons vos données. Veuillez prendre le temps de vous familiariser avec nos pratiques en matière de protection des données à caractère personnel et contactez nous si vous avez des questions.
+
+Collecte et utilisation des données à caractère personnel
+
+Les données personnelles (ou « informations personnelles ») sont des données qui peuvent être utilisées pour identifier de manière unique ou contacter une seule personne.
+
+Il peut vous être demandé de communiquer vos données personnelles à tout moment lorsque vous êtes en contact avec Apple ou une société affiliée Apple. Apple et ses sociétés affiliées peuvent s’échanger ces données personnelles et les utiliser conformément au présent engagement de confidentialité. Elles peuvent également les associer avec d’autres informations afin de fournir et d’améliorer leurs produits, services, contenus et publicités.
+
+Voici quelques exemples de catégories de données personnelles qu’Apple peut collecter et la façon dont nous pouvons les utiliser.
+
+Quelles sont les données personnelles que nous collectons
+
+•Lorsque vous créez un identifiant Apple (« Apple ID »), enregistrez vos produits, demandez un crédit commercial, achetez un produit, téléchargez une mise à jour de logiciel, lorsque vous vous inscrivez à une formation auprès d’un Magasin de Vente au détail Apple, ou participez à une enquête en ligne, nous pouvons collecter tout un ensemble d’informations, y compris votre nom, adresse postale, numéro de téléphone, adresse électronique, vos préférences pour être contacté et les coordonnées de votre carte de paiement.
+
+•Lorsque vous partagez votre contenu avec votre famille et vos amis en utilisant les produits Apple, que vous envoyez des chèques cadeaux et des produits, ou invitez des tiers à vous rejoindre sur les forums Apple, Apple peut collecter les informations que vous fournissez sur ces personnes (ex : nom, adresse postale, adresse électronique et numéro de téléphone).
+
+•Aux Etats-Unis, nous pourrons vous demander votre numéro de Sécurité Sociale (NSS) mais uniquement dans certains cas, par exemple, lors de l’ouverture d’un compte mobile et de l’activation de votre iPhone ou lors de la décision d’étendre ou non le crédit commercial.
+
+Comment utilisons-nous vos données à caractère personnel?
+
+•Les données personnelles que nous collectons nous permettent de vous faire bénéficier des dernières annonces produits, mises à jour logicielles et événements Apple à venir. Elles nous permettent également d’améliorer nos services, notre contenu et nos publicités. Si vous ne souhaitez pas figurer sur notre liste de diffusion, vous pouvez vous y opposer à tout moment en mettant à jour vos préférences.
+
+•Nous utilisons également vos données personnelles pour nous aider à développer, livrer et améliorer nos produits, services, contenu et publicités.
+
+•Nous pourrons utiliser périodiquement vos données personnelles pour envoyer des notifications importantes, telles que des communications sur les achats et les modifications de nos conditions et chartes. Ces informations étant importantes pour vos relations avec Apple, vous ne pouvez pas vous opposer à la réception de ces communications.
+
+•Nous pouvons également utiliser les données personnelles à des fins internes, par exemple pour les audits, analyses de données et recherches pour améliorer les produits, services et communications clients d’Apple.
+
+•Si vous participez à une loterie, un concours ou événement promotionnel similaire, nous pourrons utiliser les informations que vous communiquerez dans le cadre de la gestion de ces programmes.
+
+Collecte et utilisation des données à caractère non-personnel
+
+Nous collectons également des données à caractère non-personnel (données dont la forme ne nous permet pas de faire un rapprochement direct avec une personne en particulier). Nous pouvons collecter, utiliser, transférer et divulguer des données non-personnelles à quelque fin que ce soit. Vous trouverez ci-après des exemples de données à caractère non-personnel que nous collectons et la façon dont nous pouvons les utiliser:
+
+•Nous pouvons collecter des informations telles que le métier, la langue, le code postal, l’indicatif régional, l’identifiant unique de l’appareil, la localisation et le fuseau horaire dans lesquels un produit Apple est utilisé afin de nous permettre de mieux comprendre le comportement du client et d’améliorer nos produits, services et publicités.
+
+•Nous pouvons également collecter des informations sur les activités des clients à travers notre site, le service MobileMe et l’iTunes Store et à partir de nos autres produits et services. Ces données sont collectées et utilisées pour nous aider à fournir des informations plus utiles à nos clients et pour comprendre quelles parties de notre site, de nos produits et de nos services sont les plus populaires. Les données collectées sont considérées comme des données non-personnelles aux fins du présent engagement de confidentialité.
+
+Si nous associons des données non-personnelles à des données personnelles, les données ainsi combinées seront traitées comme des données à caractère personnel tant qu’elles resteront associées.
+
+Cookies et autres technologies
+
+Le site Internet, les services en ligne, les applications interactives, les messages électroniques et les publicités d’Apple peuvent utiliser des « cookies » et d’autres technologies, telles que des balises web ou « pixel tag ». Ces technologies nous permettent de mieux comprendre le comportement des utilisateurs, nous indiquent quelles parties de notre site sont les plus visitées, et facilitent et mesurent l’efficacité des publicités et recherches Internet. Nous traitons les données collectées par les cookies et autres technologies comme des données non-personnelles. Toutefois, dans la mesure où les adresses IP (Internet Protocol) ou identifiants similaires sont considérés comme des données à caractère personnel par la loi locale, nous traiterons également ces identifiants comme des données personnelles. De la même manière, dans la mesure où des données non-personnelles sont associées à des données personnelles, nous traiterons les informations ainsi associées comme des données personnelles aux fins du présent engagement de confidentialité.
+
+Apple et ses partenaires utilisent des cookies et autres technologies dans les services de publicité sur téléphone portable afin de vérifier le nombre de fois où vous visualisez une publicité donnée, de vous adresser des publicités en lien avec vos intérêts et de mesurer l’efficacité des campagnes publicitaires. Si vous ne souhaitez pas recevoir des publicités à ce niveau de pertinence sur votre téléphone portable, vous pouvez vous y opposer (« opt out ») en cliquant sur le lien suivant sur votre appareil : http://oo.apple.com. Si vous vous y opposez, vous continuerez de recevoir le même nombre de publicités sur votre téléphone portable, mais elles pourront être moins pertinentes car elles ne seront pas en lien avec vos centres d’intérêts. Vous pourrez toujours voir des publicités relatives au contenu d’une page web ou dans une application ou basées sur d’autres informations non-personnelles. Ce refus ou opt out s’applique uniquement aux services de publicité Apple et n’affecte pas les publicités basées sur vos centres d’intérêts provenant d’autres réseaux publicitaires.
+
+Apple et ses partenaires utilisent également des cookies et autres technologies pour se souvenir de vos données personnelles lorsque vous utilisez notre site, nos services en ligne et nos applications. Dans ce cas, notre objectif est de rendre votre visite plus pratique et de la personnaliser. Par exemple, le fait de connaitre votre prénom nous permettra de vous souhaiter la bienvenue lors de votre prochaine visite sur l’Apple Online Store. Le fait de connaitre votre pays et votre langue – et si vous êtes enseignant, le nom de votre école – nous permet de vous proposer une visite personnalisée plus efficace. Le fait de savoir qu’une personne utilisant votre ordinateur ou appareil a acheté un certain produit ou utilisé un service particulier nous aide à rendre nos communications publicitaires et électroniques plus pertinentes en fonction de vos centres d’intérêts. Enfin, le fait de connaître vos coordonnées, les numéros de série des produits et d’avoir des informations à propos de votre ordinateur ou appareil nous aide à enregistrer vos produits, à personnaliser votre système d’exploitation, à installer votre service MobileMe et à vous fournir un meilleur service client.
+
+Si vous souhaitez désactiver les cookies et que vous utilisez le navigateur Internet Safari, allez dans les préférences Safari puis dans l’onglet Sécurité afin de désactiver les cookies. Sur votre appareil portable Apple, allez dans Paramètres, puis Safari, puis dans la partie Cookies. Pour les autres navigateurs, consultez votre fournisseur pour savoir comment désactiver les cookies. Veuillez noter que certaines fonctionnalités du site Internet Apple ne seront plus disponibles si les cookies sont désactivés.
+
+A l’instar de nombreux sites Internet, nous collectons certaines informations automatiquement et les stockons dans des fichiers journaux. Ces données comprennent les adresses IP (Internet Protocol), le type de navigateur et la langue, le fournisseur d’accès à Internet (FAI), les pages de renvoi et de sortie, le système d’exploitation, la date / l’heure et les données relatives à votre parcours sur le site.
+
+Nous utilisons ces données pour comprendre et analyser les tendances, administrer le site, connaître le comportement des utilisateurs sur le site et collecter des informations démographiques à propos de l’ensemble de nos utilisateurs. Apple peut utiliser ces informations pour ses services marketing et publicitaires.
+
+Dans certains de nos messages électroniques, nous utilisons un « clic URL » lié au contenu du site Internet Apple. Lorsque les clients cliquent sur l’une de ces URL, ils sont transférés vers un autre serveur web avant d’arriver sur la page de destination de notre site. Nous suivons ces clics pour nous aider à déterminer l’intérêt porté à certains sujets et à mesurer l’efficacité de nos communications clients. Si nous préférez ne pas être suivi de cette façon, vous ne devez pas cliquer sur les liens textes ou graphiques figurant dans les messages électroniques.
+
+Les balises (« pixel tags ») nous permettent d’envoyer des messages électroniques dans un format que les clients peuvent lire et de savoir si le message a été ouvert. Nous pourrons utiliser ces informations pour réduire ou supprimer les messages adressés aux clients.
+
+Divulgation à des tiers
+
+Apple peut parfois mettre certaines données personnelles à la disposition de partenaires stratégiques travaillant avec Apple pour la fourniture de produits et services ou aidant Apple à commercialiser ses produits auprès des clients. Par exemple, lorsque vous achetez et que vous activez votre iPhone, vous autorisez Apple et son fournisseur à échanger les informations que vous divulguez pendant la procédure d’activation afin d’exécuter le service. A compter de l’activation du service, votre compte sera régi par les engagements de confidentialité respectifs d’Apple et de son prestataire. Les données personnelles seront uniquement partagées par Apple pour fournir ou améliorer ses produits, services et publicités; elles ne seront pas partagées avec des tiers à des fins marketing.
+
+Prestataires de services
+
+Apple partage des données personnelles avec des sociétés qui fournissent des services tels que le traitement de l’information, l’extension du crédit, l’exécution des commandes clients, la livraison des produits, la gestion et le développement des données clients, la fourniture du service client, l’évaluation de votre intérêt pour nos produits et services et la réalisation d’enquêtes de satisfaction ou de développement de clientèle. Ces sociétés sont obligées de protéger vos données et peuvent se trouver dans tout pays dans lequel Apple exerce des activités.
+
+Autres dispositions
+
+Apple pourra être amenée – du fait de la loi, dans le cadre d’une procédure en justice, d’un litige et/ou d’une requête des autorités publiques de votre pays de résidence ou autre – à divulguer vos données personnelles. Nous pouvons également divulguer vos données si nous pensons qu’à des fins de sécurité nationale, d’application de la loi ou autre sujet d’intérêt public, la divulgation est nécessaire ou appropriée.
+
+Nous pouvons également divulguer des informations vous concernant si nous pensons que cette divulgation est raisonnablement nécessaire pour faire valoir le respect de nos conditions générales ou protéger nos activités ou nos utilisateurs. En outre, en cas de restructuration, de fusion ou de vente, nous pourrons transférer toutes informations personnelles que nous collectons au tiers concerné.
+
+Protection des données à caractère personnel
+
+Apple prend des précautions – y compris des mesures administratives, techniques et physiques – pour protéger vos données personnelles contre la perte, le vol et la mauvaise utilisation, ainsi que l’accès, la divulgation, l’altération et la destruction non autorisés.
+
+Les services en ligne Apple, tels qu’Apple Online Store et iTunes Store, utilisent le cryptage Secure Sockets Layer (SSL) sur toutes les pages web sur lesquelles des données personnelles sont collectées. Pour effectuer des achats auprès de ces services, vous devez utiliser un navigateur SSL, tel que Safari, Firefox ou Internet Explorer. Cela permettra de préserver la confidentialité de vos données à caractère personnel lors de leur transmission surl’Internet.
+
+Lorsque vous utilisez certains produits, services ou applications Apple ou que vous participez à un forum, chat ou service de réseau social Apple, les données personnelles que vous partagez sont visibles par les autres utilisateurs qui pourront les lire, les collecter et les utiliser. Vous êtes responsable des données personnelles que vous décidez de soumettre dans ces circonstances. Par exemple, si vous indiquez votre nom et adresse électronique sur un forum, ces informations seront publiques. Vous devez être prudent lorsque vous utilisez ces fonctionnalités.
+
+Intégrité et conservation des données à caractère personnel
+
+Apple vous permet de préserver l’exactitude, la mise à jour et l’intégrité de vos données personnelles facilement. Nous conserverons vos données personnelles pour la durée nécessaire aux finalités décrites dans le présent engagement de confidentialité, sauf si une période de conservation plus longue est imposée ou permise par la loi.
+
+Accès aux données à caractère personnel
+
+Vous pouvez vous assurer que vos coordonnées et préférences sont exactes, complètes et à jour en vous connectant à votre compte sur https://appleid.apple.com/. Concernant les autres données à caractère personnel, nous nous efforçons de bonne foi de vous donner un accès vous permettant de nous demander de corriger les données si elles sont inexactes ou de les supprimer, si Apple n’est pas obligée de les conserver du fait de la loi ou à des fins commerciales légitimes. Nous pourrons refuser de traiter les demandes excessivement répétitives, nécessitant des efforts techniques disproportionnés, mettant en péril la confidentialité des données des tiers, les demandes qui sont extrêmement difficiles à mettre en place ou pour lesquelles un accès n’est pas imposé autrement par la loi applicable. Les demandes d’accès, de correction ou de suppression peuvent être envoyées aux adresses électroniques Confidentialité régionales.
+
+Enfants
+
+Nous ne collectons pas en connaissance de cause les données personnelles des enfants de moins de 13 ans. Si nous sommes informés que nous avons collecté les données personnelles d’un enfant de moins de 13 ans, nous prendrons des mesures pour supprimer ces informations dès que possible.
+
+Services de géolocalisation
+
+Pour fournir des services de géolocalisation sur les produits Apple, Apple et ses partenaires et licenciés peuvent collecter, utiliser et partager des données de localisation précises, y compris la localisation géographique en temps réel de votre ordinateur ou appareil Apple. Ces données de localisation sont collectées anonymement dans un format ne permettant pas de vous identifier et sont utilisées par Apple et ses partenaires et licenciés pour fournir et améliorer les produits et services de géolocalisation. Par exemple, nous pouvons partager la localisation géographique avec des fournisseurs d’application si vous acceptez leurs services de localisation.
+
+Certains services de géolocalisation proposés par Apple, telle que la fonctionnalité MobileMe « Find My iPhone », ont besoin de vos données personnelles pour mettre en œuvre cette fonctionnalité.
+
+Sites et services de tiers
+
+Les sites Internet, produits, applications et services Apple peuvent contenir des liens vers des sites Internet, produits et services de tiers. Nos produits et services peuvent également utiliser ou proposer des produits ou services de tiers – par exemple, l’application iPhone d’un tiers. Les informations collectées par les tiers, qui peuvent comprendre des éléments tels que les données de localisation ou les coordonnées, sont régies par leurs chartes de confidentialité. Nous vous invitons à lire les chartes de confidentialité de ces tiers.
+
+Utilisateurs internationaux
+
+Les informations que vous divulguez pourront être transférées ou seront accessibles par des sociétés à travers le monde, tel que décrit dans le présent engagement de confidentialité. Apple se conforme aux principes « Safe Harbor » définis par le Ministère américain du Commerce en matière de collecte, d’utilisation et de conservation des informations personnelles collectées par des sociétés de l’Espace Economique Européen et de Suisse. Vous trouverez ici de plus amples informations sur le programme « Safe Harbor » du Ministère américain du Commerce.
+
+Vous noterez que les informations personnelles concernant les particuliers résidant dans un état membre de l’Espace Economique Européen (EEE) sont contrôlées conjointement par Apple Sales International à Cork en Irlande et Apple UK Limited à Uxbridge, au Royaume-Uni. Les données à caractère personnel collectées dans l’EEE lors de l’utilisation d’iTunes sont contrôlées par iTunes SARL au Luxembourg.
+
+La protection de votre vie privée : un engagement à l’échelle de notre entreprise
+
+Soucieux de préserver la sécurité de vos informations personnelles, nous communiquons les présentes règles de confidentialité et de sécurité à chacun de nos salariés et appliquons une politique très stricte en la matière au sein de notre entreprise.
+
+Questions sur la confidentialité
+
+Si vous avez des questions ou des interrogations à propos de l’engagement de Confidentialité Apple ou du traitement des données, contactez votre Contrôleur de Données Apple local à l’adresse électronique régionale indiquée ci-dessous.
+
+Pays ou région - Coordonnées
+
+Etats-Unis http://www.apple.com/privacy/contact/
+Canada http://www.apple.com/privacy/contact/
+Amérique Latine http://www.apple.com/privacy/contact/
+Europe http://www.apple.com/privacy/contact/
+Japon http://www.apple.com/privacy/contact/
+Australie http://www.apple.com/privacy/contact/
+Asie / Pacifiquehttp://www.apple.com/privacy/contact/
+Apple peut périodiquement mettre à jour son Engagement de Confidentialité. En cas de modification substantielle, de cet Engament, une notification sera affichée sur notre site Internet, accompagnée de l’Engagement de Confidentialité mis à jour.
+
+Apple Inc., 1 Infinite Loop, Cupertino, Californie, Etats-Unis 95014
+
+Dernière mise à jour 21 juin 2010
