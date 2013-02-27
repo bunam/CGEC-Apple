@@ -1,26 +1,23 @@
 
-Conditions générales et engagement de confidentialité d'Apple
-Les modifications que nous avons apportées aux conditions générales comprennent les éléments suivants :
+Conditions générales et Engagement de confidentialité d'Apple
+Les modifications que nous avons apportées aux conditions générales incluent les suivantes:
 
-•	Une nouvelle section a été ajoutée aux conditions générales afin d’expliquer les modalités selon lesquelles certains contenus peuvent être téléchargés automatiquement sur plusieurs ordinateurs et appareils iOS en associant ces appareils à un Compte donné, et le téléchargement supplémentaire de certains contenus achetés précédemment pour votre confort personnel ; il y a des limitations sur le nombre et le type d’ordinateurs et d’appareils qui peuvent être associés à un Compte à cette fin, ainsi que sur la fréquence à laquelle un ordinateur ou un appareil peut être associé à un Compte différent ; un appareil ne peut être associé qu’à un seul Compte à la fois ;
-
-•	Les Conditions Générales d’App Store ont été révisées pour tenir compte de la disponibilité d’abonnements in-app gratuits, et pour expliquer où les abonnements apparaissent sur les appareils après le téléchargement.
+•Annonce d’un type supplémentaire de contenu acheté précédemment qui peut être téléchargé ultérieurement sur certains ordinateurs et appareils pour votre confort personnel, assujetti à certaines règles limitant les appareils sur lesquels un tel contenu acheté précédemment peut être téléchargé.
 iTunes Store
 CONDITIONS GÉNÉRALES DU SERVICE
 A. CONDITIONS GÉNÉRALES DE VENTE SUR ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE
 B. CONDITIONS GÉNÉRALES DE ITUNES STORE
 C. CONDITIONS GÉNÉRALES MAC APP STORE, APP STORE ET IBOOKSTORE
-D. ENGAGEMENT DE CONFIDENTIALITÉ
 
-LES PRÉSENTS CONTRATS, CONCLUS ENTRE VOUS ET ITUNES SARL (« ITUNES »), RÉGISSENT VOTRE UTILISATION DE ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE. POUR ACCEPTER CES CONDITIONS, CLIQUEZ SUR « ACCEPTER ». SI VOUS N’ACCEPTEZ PAS CES CONDITIONS, NE CLIQUEZ PAS SUR « ACCEPTER » ET N’UTILISEZ PAS ITUNES STORE, MAC APP STORE, APP STORE OU IBOOKSTORE. CE CONTRAT S’APPLIQUE SANS PRÉJUDICE DES LICENCES DE LOGICIELS QUE VOUS POURRIEZ AVOIR CONCLU, PAR EXEMPLE POUR L’UTILISATION DE L’APPLICATION ITUNES.
+LES PRÉSENTS CONTRATS, CONCLUS ENTRE VOUS ET ITUNES SARL (« ITUNES »), RÉGISSENT VOTRE UTILISATION DE ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE (LES "STORES"). POUR ACCEPTER CES CONDITIONS, CLIQUEZ SUR « ACCEPTER ». SI VOUS N’ACCEPTEZ PAS CES CONDITIONS, NE CLIQUEZ PAS SUR « ACCEPTER » ET N’UTILISEZ PAS ITUNES STORE, MAC APP STORE, APP STORE OU IBOOKSTORE. CE CONTRAT S’APPLIQUE SANS PRÉJUDICE DES LICENCES DE LOGICIELS QUE VOUS POURRIEZ AVOIR CONCLU, PAR EXEMPLE POUR L’UTILISATION DE L’APPLICATION ITUNES.
+
+POUR PLUS D'INFORMATIONS SUR NOS PRODUITS ET SERVICES, VEUILLEZ CONSULTER LA PAGE SUIVANTE: http://www.apple.com/support/.
 
 A. CONDITIONS GÉNÉRALES DE VENTE SUR ITUNES STORE, MAC APP STORE, APP STORE ET IBOOKSTORE
 
 PAIEMENTS, TAXES ET POLITIQUE DE REMBOURSEMENT
 
-Les modes de paiement suivants sont acceptés pour les services iTunes Store, Mac App Store, App Store et iBookstore (les « Stores») : cartes de paiement et de crédit émises par des banques établies en France, les paiements par le biais de votre compte Click&Buy, les Cartes iTunes, les Chèques Cadeaux iTunes Store, les Codes de Contenu et les crédits de Comptes de Provision. Si une carte de paiement ou de crédit ou votre compte Click&Buy est utilisé pour régler une transaction, iTunes pourra demander l'accord préalable pour un montant pouvant couvrir la valeur de la commande. La facturation intervient au moment de la transaction ou peu de temps après. Si vous effectuez des transactions en utilisant 1-Click ou votre compte Click&Buy, votre commande peut être autorisée et facturée au fur et à mesure au cours d’une même session d’achat, de sorte que votre commande peut apparaître sur votre extrait de compte sous la forme de plusieurs commandes. Si vous utilisez une Carte iTunes, un Chèque Cadeaux iTunes ou un Compte de Provision pour effectuer une transaction, le montant est déduit au moment de la transaction. Lorsque vous effectuez des achats, les crédits de contenu sont utilisés en premier, puis les Chèques Cadeaux, Cartes iTunes ou crédits de Compte de Provision ; votre carte de paiement ou de crédit ou votre compte Click&Buy seront débités du montant du solde restant.
-
-Vous acceptez de payer tous les produits que vous achetez par l’intermédiaire des Stores et que iTunes débite votre carte de paiement ou de crédit ou votre compte Click&Buy pour tous produits achetés, ainsi que pour toutes sommes supplémentaires (y compris toutes taxes et pénalités de retard, le cas échéant) accumulées par ou relatives à votre Compte. Vous êtes responsable du paiement dans les délais de toutes redevances et de la fourniture à iTunes d’une carte de paiement ou de crédit ou d’un compte Click&Buy valide pour le paiement de toutes les redevances. Toutes les redevances seront débitées de la carte de paiement ou de crédit ou du compte Click&Buy que vous aurez indiqué au moment de l’inscription. Si vous souhaitez désigner une carte de paiement ou de crédit différente ou en cas de changement relatif à votre carte de paiement ou de crédit ou à votre compte Click&Buy, vous devrez modifier en ligne vos informations dans la zone Votre Compte de iTunes ; il peut se produire une interruption temporaire de votre accès aux Stores, le temps que iTunes puisse vérifier la validité des nouvelles informations de paiement.
+Vous acceptez de payer tous les produits que vous achetez par l’intermédiaire des Stores et que iTunes débite votre moyen de paiement pour tous produits achetés, ainsi que pour toutes sommes supplémentaires (y compris toutes taxes et pénalités de retard, le cas échéant) accumulées par ou relatives à votre Compte. Vous êtes responsable du paiement dans les délais de toutes redevances et de la fourniture à iTunes d’un moyen de paiement valide pour le paiement de toutes les redevances. Pour les détails sur la manière dont les achats sont facturés, merci de visiter support.apple.com/kb/HT5582
 
 Le prix total comprendra le prix du produit plus toute TVA applicable (en vigueur à la date du téléchargement).
 
@@ -82,7 +79,7 @@ VOTRE COMPTE
 
 En tant qu'utilisateur inscrit au Service, vous pouvez créer un compte (« Compte »). Vous ne devez révéler à personne les informations relatives à votre Compte. Vous êtes seul responsable de la confidentialité et de la sécurité de votre Compte et de toutes les opérations effectuées sur votre Compte ou transitant par celui-ci, et vous acceptez d'avertir immédiatement iTunes de toute violation de la sécurité de votre Compte. iTunes ne pourra être tenu pour responsable d'aucune perte découlant d'une utilisation non autorisée de votre Compte.
 
-Pour acheter et télécharger les Produits iTunes depuis le Service, vous devez entrer votre Apple ID et votre mot de passe pour authentifier votre Compte. Après avoir authentifié votre Compte, vous n’aurez plus besoin de l’authentifier à nouveau pendant une durée de quinze minutes. Au cours de cette période, vous pourrez acheter et télécharger les Produits iTunes sans avoir à entrer de nouveau votre mot de passe. Vous pouvez désactiver la faculté de faire des achats de Produits iTunes en modifiant les paramètres de votre ordinateur ou Appareil iOS. Pour plus d’informations, merci de bien vouloir consulter les pages suivantes : http://support.apple.com/kb/HT1904 ou http://support.apple.com/kb/HT4213.
+Pour acheter et télécharger les Produits iTunes depuis le Service, vous devez entrer votre Apple ID et votre mot de passe pour authentifier votre Compte. Après avoir authentifié votre Compte, vous n’aurez plus besoin de l’authentifier à nouveau pendant une durée de quinze minutes. Au cours de cette période, vous pourrez acheter et télécharger les Produits iTunes sans avoir à entrer de nouveau votre mot de passe. Vous pouvez désactiver la faculté de faire des achats de Produits iTunes en modifiant les paramètres de votre ordinateur ou Appareil iOS. Pour plus d’informations, merci de bien vouloir consulter les pages suivantes: http://support.apple.com/kb/HT1904 ou http://support.apple.com/kb/HT4213.
 
 Vous acceptez de fournir les informations exactes et complètes au moment de votre enregistrement et de toute utilisation du Service (« Données d’Inscription ») et vous vous engagez à mettre à jour vos Données d'Inscription afin qu'elles restent exactes et complètes. Vous acceptez qu'iTunes conserve et utilise les Données d'Inscription que vous avez fournies en vue de la tenue de votre Compte et de la facturation.
 
@@ -90,25 +87,41 @@ LIVRAISON AUTOMATIQUE ET TELECHARGEMENT D’ACHATS PRECEDENTS
 
 Lorsque vous achetez pour la première fois des Produits iTunes musique et des Produits iTunes vidéo et musique (collectivement, le « Contenu iTunes Auto-Livré »), vous pouvez décider de recevoir automatiquement (« auto-téléchargement ») des copies de ce Contenu iTunes Auto-Livré sur des appareils supplémentaires compatibles Appareils iOS et des ordinateurs autorisés par iTunes avec des logiciels compatibles en associant ces Appareils iOS et ces ordinateurs sous réserve des règles d’association ci-dessous (individuellement désigné, un « Appareil Associé »). Pour chaque Appareil Associé, vous pouvez spécifier quel type de Contenu iTunes Auto-Livré, le cas échéant, pourra y être auto-téléchargé. Sur un Appareil Associé capable de recevoir des notifications push (« Compatible Push »), y compris les Appareils iOS, les Contenus iTunes Auto-Livrés seront auto-téléchargés sur cet Appareil Associé dès lors qu’il disposera d’une connexion Internet ; sur un Appareil Associé qui n’est pas Compatible Push, y compris ceux fonctionnant avec le système d'exploitation Windows, le Contenu iTunes Auto-Livré apparaîtra automatiquement dans la file de téléchargement et vous pourrez lancer manuellement le téléchargement via iTunes.
 
-Pour votre confort personnel, après l’acquisition du Contenu iTunes Auto-Livré (« Contenu Eligible iTunes »), vous pouvez télécharger une partie du Contenu Eligible iTunes acheté précédemment sur tout Appareil Associé. Certains Contenus Eligibles iTunes que vous avez précédemment achetés peuvent ne pas être disponibles pour un téléchargement supplémentaire à un moment donné, et iTunes ne pourra être responsable à votre égard le cas échant. Dans le cas où vous ne pourriez pas procéder au téléchargement supplémentaire de certains Contenus Eligibles iTunes achetés précédemment, après avoir téléchargé un élément du Contenu Eligible iTunes, il est de votre responsabilité de ne pas le perdre, le détruire ou l'endommager, et il est conseillé de le sauvegarder.
+Pour votre confort personnel, après l’acquisition du Contenu iTunes Auto-Livré, d’un film Produits iTunes acheté (i.e. non loué) et de Produits iTunes (ci-après séparément« Contenu Eligible iTunes »), vous pouvez télécharger une partie du Contenu Eligible iTunes acheté précédemment sur tout Appareil Associé. Certains Contenus Eligibles iTunes que vous avez précédemment achetés peuvent ne pas être disponibles pour un téléchargement supplémentaire à un moment donné, et iTunes ne pourra être responsable à votre égard le cas échant. Dans le cas où vous ne pourriez pas procéder au téléchargement supplémentaire de certains Contenus Eligibles iTunes achetés précédemment, après avoir téléchargé un élément du Contenu Eligible iTunes, il est de votre responsabilité de ne pas le perdre, le détruire ou l'endommager, et il est conseillé de le sauvegarder. 
 
-L’Association d’Appareils Associés est soumise aux règles suivantes : 
+L’Association d’Appareils Associés est soumise aux règles suivantes :
 
-(i) Vous pouvez auto-télécharger du Contenu iTunes Auto-Livré ou télécharger du Contenu Eligible iTunes acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes. 
+(i) Vous pouvez auto-télécharger du Contenu iTunes Auto-Livré ou télécharger du Contenu Eligible iTunes acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes.
 
-(ii) Un Appareil Associé peut être associé seulement à un Compte à un moment donné. 
+(ii) Un Appareil Associé peut être associé seulement à un Compte à un moment donné.
 
-(iii) Vous pouvez assigner un Appareil Associé à un autre Compte une fois tous les 90 jours seulement. 
+(iii) Vous pouvez assigner un Appareil Associé à un autre Compte une fois tous les 90 jours seulement.
 
-(iv) Vous pouvez télécharger les contenus gratuits achetés précédemment sur un nombre illimité d’appareils lorsqu’ils sont gratuits sur les Services iTunes, mais dans la limite de 5 ordinateurs autorisés par iTunes. 
+(iv) Vous pouvez télécharger les contenus gratuits achetés précédemment sur un nombre illimité d’appareils lorsqu’ils sont gratuits sur les Services iTunes, mais dans la limite de 5 ordinateurs autorisés par iTunes.
 
-Une Apple TV n’est pas un « Appareil Associé ».
+Une Apple TV n’est pas un « Appareil Associé ». Cependant, les films Produits iTunes achetés (i.e. non loués) peuvent être visionnés à nouveau sur des Apple TV compatibles, à condition que vous ne visionniez à nouveau de tels films sur un nombre limité de Apple TV à la fois.
 
 Certains éléments du Contenu Eligible iTunes peuvent être volumineux, et des coûts importants liés à la transmission de ces données en ligne peuvent résulter de la livraison de ces Contenus Eligibles iTunes.
 
+ITUNES MATCH
+
+iTunes Match vous permet d'accéder à distance aux chansons téléchargées ou pour lesquelles il existe une correspondance et aux clips musicaux que vous avez achetés avec votre Compte, ainsi qu'aux métadonnées y relatives, les listes de lecture et d'autres informations sur votre Bibliothèque iTunes (le "Contenu iTunes Match").
+
+Vous pouvez vous abonner à iTunes Match moyennant un abonnement annuel. Pour cela, vous devez disposer d’une carte bancaire en cours de validité dont vous aurez communiqué les données à iTunes. L’abonnement n’est pas remboursable (sauf si le droit applicable l’exige) et sera tacitement reconduit pour des périodes d’un an sauf résiliation de votre part. Votre compte sera débité 24 heures au maximum avant l'expiration de l'abonnement en cours. Vous pouvez annuler la tacite reconduction de l’abonnement en modifiant les paramètres de compte d’iTunes Store sur votre ordinateur. Vous ne pourrez plus accéder à votre Contenu iTunes Match depuis iTunes Match à l’expiration de votre abonnement.
+
+iTunes Match fonctionne avec des bibliothèques contenant jusqu'à 25'000 chansons qui soit (i) ne sont pas disponibles actuellement sur le Service iTunes, ou (ii) ne sont pas achetées depuis le Service iTunes avec votre Compte. Les chansons qui ne satisfont pas certains critères fixé par iTunes ou qui ne sont pas autorisées pour votre ordinateur ne sont pas admises sur iTunes Match.
+
+iTunes Match scannera automatiquement les fichiers musicaux et collectera d’autres informations pouvant servir à identifier les fichiers présents dans votre bibliothèque iTunes, telles que les titres des chansons, les noms des artistes ou la durée des chansons. iTunes Match utilisera ces informations pour établir une correspondance avec les chansons actuellement disponibles sur iTunes Store, puis mettra les chansons correspondantes à votre disposition dans un format alors disponible sur iTunes Store. En l’absence de correspondance, votre copie de la chanson sera téléchargée sur iTunes dans le même format ou dans un format déterminé par iTunes. iTunes se réserve le droit de limiter les types de contenu téléchargé (par exemple les fichiers excessivement volumineux). Les chansons téléchargées ou correspondantes ainsi que les métadonnées s’y rapportant seront accessibles depuis un Appareil Associé compatible avec iTunes Match. L’association d’Appareils Associés pour iTunes Match est soumise aux mêmes conditions que la Livraison Automatique et le Téléchargement d’Achats Précédents ; les chansons téléchargées ou correspondantes et les informations s’y rapportant sont réputées être du « Contenu Éligible iTunes ».Vous pouvez également accéder au Contenu iTunes Match depuis des Apple TV compatibles, étant précisé que vous ne pouvez y accéder que sur un nombre limité d’Apple TV en même temps.
+
+Lorsque vous utiliserez iTunes Match, Genius commencera à associer des informations concernant les fichiers présents dans votre bibliothèque iTunes avec votre Compte ; l’association avec votre Compte se poursuivra pendant un certain temps à compter de l’expiration de votre abonnement. iTunes utilisera ces informations conformément à la Section Confidentialité du présent Contrat. Vous ne pourrez pas désactiver Genius lorsque vous utiliserez iTunes Match. Par conséquent, si vous ne souhaitez pas que nous collections et utilisions les informations à partir de votre bibliothèque iTunes dans les conditions décrites aux présentes, vous ne devez pas utiliser iTunes Match.
+
+Vous consentez par les présentes à utiliser iTunes Match uniquement pour des contenus légalement acquis. Toute utilisation de contenu illicite viole les droits d’autrui et vous expose à des sanctions civiles et pénales, y compris d’éventuels dommages-intérêts pécuniaires, sur le fondement de la contrefaçon de droits d'auteur.
+
+iTunes Match est fourni « EN L’ÉTAT » et peut contenir des erreurs ou inexactitudes susceptibles de causer des pannes, corruptions ou pertes de données et/ou d’informations, y compris de la musique, des listes de lecture et l’historique de lecture, sur votre ordinateur ou appareil et sur des périphériques (y compris notamment des serveurs et autres ordinateurs) connectés à votre ordinateur ou appareil. Vous devez sauvegarder toutes les données et informations présentes sur votre ordinateur ou appareil et sur vos périphériques avant d’utiliser iTunes Match. Vous reconnaissez et convenez expressément que toute utilisation d’iTunes Match est à vos risques et périls. Dans la mesure autorisée par la loi, iTunes n’assume aucune responsabilité à votre égard concernant votre utilisation d’iTunes Match, y compris l’incapacité d’accéder à du contenu téléchargé ou correspondant.
+
 CONFIDENTIALITÉ
 
-Le Service est soumis à l’Engagement de Confidentialité d’Apple disponible à l’adresse : http://www.apple.com/fr/privacy.
+Le Service est soumis à l’Engagement de Confidentialité d’Apple disponible à l’adresse: http://www.apple.com/fr/privacy.
 
 Si vous choisissez d’activer la fonctionnalité Genius, Apple collectera ponctuellement, de manière automatique, des informations susceptibles d’être utilisées pour identifier les fichiers présents dans votre bibliothèque iTunes sur votre ordinateur, tels que votre historique de lecture et vos listes de lecture. Ces informations incluent les supports achetés via iTunes et ceux obtenus auprès d’autres sources. Ces informations seront stockées de manière anonyme et ne seront pas associées à votre nom ou à votre Compte. Lorsque vous utilisez la fonctionnalité Genius, Apple utilisera ces informations et les contenus de votre bibliothèque iTunes, ainsi que d’autres informations, afin de vous fournir des recommandations personnalisées.
 
@@ -145,6 +158,8 @@ RÈGLES D’UTILISATION
 • www.sacem.fr
 • www.sdrm.fr
 • www.sesam.org
+• www.scam.fr
+• www.adagp.fr
 
 (ii) Vous aurez le droit d’utiliser les Produits iTunes, à tout moment, sur un nombre maximum de cinq ordinateurs sur lesquels est installée l'application iTunes, à l’exception des Locations de Film (voir ci-dessous).
 
@@ -164,7 +179,7 @@ RÈGLES D’UTILISATION
 
 (a) Les films ne peuvent être visionnés que sur un équipement à la fois. Vous devez être connecté au Service lorsque vous déplacez les films à louer, et vous ne pouvez le faire qu’entre votre ordinateur et d’autres équipements compatibles. Les Films à louer qui utilisent Apple TV ou iPad, iPhone 4 ou iPod touch ne peuvent pas être déplacés. Si vous déplacez un film vers un équipement compatible et que vous utilisez ensuite le Service pour restaurer cet équipement, ou si vous sélectionnez les fonctions Paramètres > Redémarrage > Effacer tout le contenu et les paramètres sur cet équipement, le film sera effacé et ne pourra plus être récupéré.
 
-(b) Vous disposez de trente (30) jours après le téléchargement d’un film pour commencer à le visionner. Une fois avoir commencé à le visionner, vous disposez de quarante-huit (48) heures pour finir de visionner le film. Le fait d’arrêter, de mettre sur pause ou de recommencer un film n’a pas pour effet d’étendre le temps disponible pour le visionnage.
+(b) A compter de l'achat d'un film à louer, vous pouvez télécharger ce film à louer dans les trente (30) jours. Vous disposez de trente (30) jours après le téléchargement d’un film pour commencer à le visionner. Une fois avoir commencé à le visionner, vous disposez de quarante-huit (48) heures pour finir de visionner le film. Le fait d’arrêter, de mettre sur pause ou de recommencer un film n’a pas pour effet d’étendre le temps disponible pour le visionnage.
 
 Certains Produits iTunes, y compris notamment les Films à louer, ne peuvent être téléchargés qu’une seule fois et ils ne peuvent être remplacés s’ils sont perdus pour une raison quelconque : il est de votre responsabilité de ne pas perdre, détruire ou endommager les Produits iTunes une fois téléchargés et de les sauvegarder.
 
@@ -179,14 +194,6 @@ Vous acceptez de ne pas violer, contourner, modifier, faire de l’ingénierie i
 SÉCURITÉ DU SERVICE
 
 Vous acceptez de ne pas accéder au Service par d’autres moyens que par l’utilisation du logiciel fourni par Apple Inc. ou les sociétés affiliées de son groupe (« Apple ») pour accéder au Service. Vous acceptez de ne pas modifier le logiciel qui est fourni par Apple pour accéder au Service de quelque façon que ce soit, ni sous quelque forme que ce soit, et à ne pas utiliser des versions modifiées du logiciel, pour quelque motif que ce soit, et notamment pour accéder illégalement au Service. Vous ne devez pas accéder, ni tenter d’accéder, à un Compte auquel vous n’êtes pas autorisé à accéder. Toutes infractions à la sécurité du système ou du réseau peuvent engager votre responsabilité civile ou pénale.
-
-PING
-
-Si vous optez pour l’utilisation de Ping, vous pouvez partager des informations avec les personnes qui ont également opté pour cette utilisation, telles que votre nom, votre image et vos centres d’intérêts. Le nom et l’image fournis seront également associés à tous les avis publiés à propos d’un Produit iTunes via votre Compte, y compris les avis publiés avant que vous ayez choisi d’utiliser Ping. Les personnes que vous avez autorisées à vous suivre pourront voir votre activité sur l’iTunes Store, tels que les évènements auxquels vous assistez, la musique que vous indiquez aimer, et les achats effectués avec votre Compte. Votre activité sur un autre compte d’utilisateur, tels que les commentaires que vous avez fait à propos de leur activité, est soumise aux paramètres de confidentialité de cet utilisateur, et peuvent être consultés par toutes les personnes suivant cet utilisateur. Vous êtes seul responsable des informations associées à votre Compte qui sont mises à disposition sur Ping. iTunes peut également utiliser les informations communiquées ainsi que les informations que l’iTunes Store envoie à iTunes concernant le contenu vous sélectionnez dans votre bibliothèque iTunes afin de vous fournir des recommandations Ping personnelles par exemple, pour vous suggérer d’autres utilisateurs que vous pourriez souhaiter suivre, des concerts et des informations connexes ou encore d’autres Produits iTunes qui pourraient vous intéresser. En utilisant Ping, vous acceptez que ces informations soient utilisées de la manière indiquée ci-dessus. Vos informations seront à tout moment traitées conformément à l’Engagement de Confidentialité d’Apple. Si vous ne voulez pas que des tiers consultent toute information fournie à l’occasion de l’utilisation de votre Compte, y compris l’activité sur l’iTunes Store, vous ne devez pas opter pour l’utilisation de Ping ou bien devez opter de ne plus utiliser Ping dans les paramètres de votre Compte. Lorsque vous refusez d’opter pour l’utilisation de Ping, vos informations seront retirées et ne seront donc plus visibles, puis supprimées après sept jours. Si vous n’optez pas pour l’utilisation de Ping, ou si vous cachez l’Espace Ping, iTunes n’enverra plus plus d’informations associées au contenu sélectionné dans votre bibliothèque iTunes pour Ping. Vous pourrez retirer des éléments de votre Activité Récente si vous ne voulez pas qu’ils soient visibles par d’autres utilisateurs. Veuillez prendre des précautions supplémentaires lors de l’utilisation de ces fonctionnalités.
-
-COMPLÉTER L’ALBUM (« CLA »)
-
-Dans certaines circonstances, vous n'aurez que 180 jours à compter de l'acquisition de la première chanson ou vidéo musicale compatible avec CLA pour accepter cette offre, et la mise à niveau des achats précédents à iTunes Plus n’affecte en aucune façon de tels délais.
 
 FORFAIT SAISON, FORFAIT MULTIPLE, FORFAIT ITUNES
 
@@ -268,7 +275,7 @@ iTunes pourra vous envoyer des notifications concernant le Service par courriel,
 
 iTunes se réserve le droit de prendre les mesures qu’elle juge raisonnablement nécessaires ou appropriées pour faire appliquer et/ou vérifier le respect de tout ou partie du présent Contrat. Vous reconnaissez que iTunes a le droit, sans engager sa responsabilité à votre égard, de divulguer les Données d'Inscription et/ou les informations de Comptes aux autorités, aux représentants du gouvernement et/ou à des tiers, si iTunes l'estime raisonnablement nécessaire ou approprié pour faire appliquer et/ou vérifier le respect de toute disposition du présent Contrat (y compris notamment le droit de iTunes de coopérer dans le cadre de toute procédure judiciaire relative à votre utilisation du Service et/ou des Produits iTunes, et/ou sur réclamation de tiers relative à votre utilisation illicite du Service et/ou des Produits iTunes ou en violation de droits de ces tiers).
 
-À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 8 rue Heinrich Heine, L-1720 Luxembourg.
+À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 31-33, rue Sainte Zithe, L-2763 Luxembourg.
 
 C. CONDITIONS GÉNÉRALES MAC APP STORE, APP STORE ET IBOOKSTORE
 
@@ -302,7 +309,7 @@ Pour votre confort personnel, après l’acquisition de Contenu Eligible, vous p
 
 L’Association d’Appareils Associés doit respecter les règles suivantes :
 
-(i)Vous pouvez auto-télécharger du Contenu Eligible ou télécharger du Contenu Eligible acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes.
+(i) Vous pouvez auto-télécharger du Contenu Eligible ou télécharger du Contenu Eligible acheté précédemment à partir d’un Compte sur un maximum de 10 Appareils Associés, sous réserve de ne pas dépasser la limite de 5 ordinateurs autorisés par iTunes.
 
 (ii) Un Appareil Associé peut être associé seulement à un Compte à un moment donné.
 
@@ -404,7 +411,7 @@ iTunes pourra vous envoyer des notifications concernant les Stores par courriel,
 
 iTunes se réserve le droit de prendre les mesures qu’elle juge raisonnablement nécessaires ou appropriées pour faire appliquer et/ou vérifier le respect de tout ou partie du présent Contrat. Vous reconnaissez que iTunes a le droit, sans engager sa responsabilité à votre égard, de divulguer les Données d'Inscription et/ou les informations de Comptes aux autorités, aux représentants du gouvernement et/ou à des tiers, si iTunes l'estime raisonnablement nécessaire ou approprié pour faire appliquer et/ou vérifier le respect de toute disposition du présent Contrat (y compris notamment le droit de iTunes de coopérer dans le cadre de toute procédure judiciaire relative à votre utilisation des Stores et/ou des Produits, et/ou sur réclamation de tiers relative à votre utilisation illicite des Stores et/ou des Produits ou en violation de droits de ces tiers).
 
-À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 8 rue Heinrich Heine, L-1720 Luxembourg.
+À propos de iTunes : Nous sommes immatriculés sous le numéro RCS Luxembourg B 101 120 et notre siège social est situé au 31-33, rue Sainte Zithe, L-2763 Luxembourg.
 
 CONDITIONS GÉNÉRALES COMPLÉMENTAIRES MAC APP STORE ET APP STORE
 
@@ -426,7 +433,7 @@ Vous devez vous authentifier pour acquérir des Achats In-App séparément de to
 
 ABONNEMENTS IN-APP
 
-Certains Produits App Store incluent une fonctionnalité qui vous permettra d'acquérir du contenu sur la base d'un abonnement (« Abonnements In-App »). Les Abonnements In-App seront reconduits automatiquement pour la période applicable que vous avez sélectionnée et, le cas échéant votre Compte sera débité 24 heures au maximum avant l'expiration de l'Abonnement In-App en cours. Vous pouvez annuler la reconduction automatique des Abonnements In-App payants en sélectionnant Gérer Mes Abonnements App dans votre Compte et en sélectionnant l'abonnement que vous voulez modifier. La fonctionnalité de reconduction automatique sera désactivée en cas d’augmentation du prix de l’abonnement par l’Editeur. Vous pouvez annuler les Abonnements In-App gratuits en supprimant le Produit App Store de votre appareil. Certains Abonnements In-App payants proposent une période d'essai gratuite avant la souscription. Si vous décidez de souscrire à un Abonnement In-App payant avant la fin de la période d'essai gratuite, votre Abonnement In-App payant prendra effet immédiatement. Certains Abonnements In-App peuvent être désignés comme des produits « Newsstand » (« Kiosque ») , auquel cas ils apparaîtront uniquement sous l’application Newsstand sur votre appareil après le téléchargement. Veuillez également revoir les informations complémentaires sur l’offre relative aux Abonnements In-App payants au point de vente au sein du Produit App Store. Il est possible que nous vous demandions l'autorisation de communiquer le nom, l'adresse e-mail et le code postal associés à votre Compte à l'Éditeur afin que ce dernier puisse vous envoyer des messages promotionnels concernant ses produits conformément à sa politique de confidentialité. Une fois ces informations en possession de l'Éditeur, elles seront traitées conformément à sa politique de confidentialité mise en ligne au public. Nous vous encourageons à vous informer sur les pratiques de l'Éditeur en matière de confidentialité avant d'accepter de lui communiquer vos données personnelles. Pour de plus amples renseignements, veuillez consulter la politique de confidentialité de l'Éditeur ou contactez-le directement. Les remboursements (qui seront calculés au prorata afin de prendre en compte le contenu de l'Abonnement In-App que vous avez déjà reçu) sont possibles dans un délai de 14 jours civils à compter de la souscription de l'Abonnement In-App après complétion du formulaire électronique disponible sur http://www.apple.com/fr/support/itunes/. Aucun autre remboursement, retour ou aucune autre annulation après la souscription.
+Certains Produits App Store incluent une fonctionnalité qui vous permettra d'acquérir du contenu sur la base d'un abonnement (« Abonnements In-App »). Les Abonnements In-App seront reconduits automatiquement pour la période applicable que vous avez sélectionnée et, le cas échéant votre Compte sera débité 24 heures au maximum avant l'expiration de l'Abonnement In-App en cours. Vous pouvez annuler la reconduction automatique des Abonnements In-App payants en sélectionnant Gérer Mes Abonnements App dans votre Compte et en sélectionnant l'abonnement que vous voulez modifier. La fonctionnalité de reconduction automatique sera désactivée en cas d’augmentation du prix de l’abonnement par l’Editeur. Vous pouvez annuler les Abonnements In-App gratuits en supprimant le Produit App Store de votre appareil. Certains Abonnements In-App payants proposent une période d'essai gratuite avant de débiter votre Compte. Si vous décidez de ne pas souscrire à un Abonnement In-App, veuillez désactiver la fonctionnalité de reconduction automatique dans les paramètres de votre Compte pendant la période d'essai gratuite. Certains Abonnements In-App peuvent être désignés comme des produits « Newsstand » (« Kiosque ») , auquel cas ils apparaîtront uniquement sous l’application Newsstand sur votre appareil après le téléchargement. Veuillez également revoir les informations complémentaires sur l’offre relative aux Abonnements In-App payants au point de vente au sein du Produit App Store. Il est possible que nous vous demandions l'autorisation de communiquer le nom, l'adresse e-mail et le code postal associés à votre Compte à l'Éditeur afin que ce dernier puisse vous envoyer des messages promotionnels concernant ses produits conformément à sa politique de confidentialité. Une fois ces informations en possession de l'Éditeur, elles seront traitées conformément à sa politique de confidentialité mise en ligne au public. Nous vous encourageons à vous informer sur les pratiques de l'Éditeur en matière de confidentialité avant d'accepter de lui communiquer vos données personnelles. Pour de plus amples renseignements, veuillez consulter la politique de confidentialité de l'Éditeur ou contactez-le directement. Les remboursements (qui seront calculés au prorata afin de prendre en compte le contenu de l'Abonnement In-App que vous avez déjà reçu) sont possibles dans un délai de 14 jours civils à compter de la souscription de l'Abonnement In-App après complétion du formulaire électronique disponible sur http://www.apple.com/fr/support/itunes/. Aucun autre remboursement, retour ou aucune autre annulation après la souscription.
 
 GENIUS POUR APPS
 
@@ -546,137 +553,4 @@ RÈGLES D’UTILISATION DES PRODUITS IBOOKSTORE
 
 (v) Vous pourrez procéder à la synchronisation manuelle de Produits iBookstore à partir d’un ou plusieurs appareils autorisés par iTunes, vers des appareils munis d’un mode de synchronisation manuel, à condition que le Produit iBookstore soit associé à un Compte existant sur l’appareil principal autorisé par iTunes, étant précisé que l’appareil principal autorisé par iTunes est celui qui a été synchronisé en premier avec l'appareil, ou celui que vous avez ultérieurement désigné comme tel en utilisant l'application iTunes.
 
-Dernière mise à jour : 12 Octobre 2011
-
-D. ENGAGEMENT DE CONFIDENTIALITE
-
-La protection de votre vie privée est importante pour Apple. Le présent engagement de confidentialité s’applique à la façon dont nous collectons, utilisons, divulguons, transférons et conservons vos données. Veuillez prendre le temps de vous familiariser avec nos pratiques en matière de protection des données à caractère personnel et contactez nous si vous avez des questions.
-
-Collecte et utilisation des données à caractère personnel
-
-Les données personnelles (ou « informations personnelles ») sont des données qui peuvent être utilisées pour identifier de manière unique ou contacter une seule personne.
-
-Il peut vous être demandé de communiquer vos données personnelles à tout moment lorsque vous êtes en contact avec Apple ou une société affiliée Apple. Apple et ses sociétés affiliées peuvent s’échanger ces données personnelles et les utiliser conformément au présent engagement de confidentialité. Elles peuvent également les associer avec d’autres informations afin de fournir et d’améliorer leurs produits, services, contenus et publicités.
-
-Voici quelques exemples de catégories de données personnelles qu’Apple peut collecter et la façon dont nous pouvons les utiliser.
-
-Quelles sont les données personnelles que nous collectons
-
-•Lorsque vous créez un identifiant Apple (« Apple ID »), enregistrez vos produits, demandez un crédit commercial, achetez un produit, téléchargez une mise à jour de logiciel, lorsque vous vous inscrivez à une formation auprès d’un Magasin de Vente au détail Apple, ou participez à une enquête en ligne, nous pouvons collecter tout un ensemble d’informations, y compris votre nom, adresse postale, numéro de téléphone, adresse électronique, vos préférences pour être contacté et les coordonnées de votre carte de paiement.
-
-•Lorsque vous partagez votre contenu avec votre famille et vos amis en utilisant les produits Apple, que vous envoyez des chèques cadeaux et des produits, ou invitez des tiers à vous rejoindre sur les forums Apple, Apple peut collecter les informations que vous fournissez sur ces personnes (ex : nom, adresse postale, adresse électronique et numéro de téléphone).
-
-•Aux Etats-Unis, nous pourrons vous demander votre numéro de Sécurité Sociale (NSS) mais uniquement dans certains cas, par exemple, lors de l’ouverture d’un compte mobile et de l’activation de votre iPhone ou lors de la décision d’étendre ou non le crédit commercial.
-
-Comment utilisons-nous vos données à caractère personnel?
-
-•Les données personnelles que nous collectons nous permettent de vous faire bénéficier des dernières annonces produits, mises à jour logicielles et événements Apple à venir. Elles nous permettent également d’améliorer nos services, notre contenu et nos publicités. Si vous ne souhaitez pas figurer sur notre liste de diffusion, vous pouvez vous y opposer à tout moment en mettant à jour vos préférences.
-
-•Nous utilisons également vos données personnelles pour nous aider à développer, livrer et améliorer nos produits, services, contenu et publicités.
-
-•Nous pourrons utiliser périodiquement vos données personnelles pour envoyer des notifications importantes, telles que des communications sur les achats et les modifications de nos conditions et chartes. Ces informations étant importantes pour vos relations avec Apple, vous ne pouvez pas vous opposer à la réception de ces communications.
-
-•Nous pouvons également utiliser les données personnelles à des fins internes, par exemple pour les audits, analyses de données et recherches pour améliorer les produits, services et communications clients d’Apple.
-
-•Si vous participez à une loterie, un concours ou événement promotionnel similaire, nous pourrons utiliser les informations que vous communiquerez dans le cadre de la gestion de ces programmes.
-
-Collecte et utilisation des données à caractère non-personnel
-
-Nous collectons également des données à caractère non-personnel (données dont la forme ne nous permet pas de faire un rapprochement direct avec une personne en particulier). Nous pouvons collecter, utiliser, transférer et divulguer des données non-personnelles à quelque fin que ce soit. Vous trouverez ci-après des exemples de données à caractère non-personnel que nous collectons et la façon dont nous pouvons les utiliser:
-
-•Nous pouvons collecter des informations telles que le métier, la langue, le code postal, l’indicatif régional, l’identifiant unique de l’appareil, la localisation et le fuseau horaire dans lesquels un produit Apple est utilisé afin de nous permettre de mieux comprendre le comportement du client et d’améliorer nos produits, services et publicités.
-
-•Nous pouvons également collecter des informations sur les activités des clients à travers notre site, le service MobileMe et l’iTunes Store et à partir de nos autres produits et services. Ces données sont collectées et utilisées pour nous aider à fournir des informations plus utiles à nos clients et pour comprendre quelles parties de notre site, de nos produits et de nos services sont les plus populaires. Les données collectées sont considérées comme des données non-personnelles aux fins du présent engagement de confidentialité.
-
-Si nous associons des données non-personnelles à des données personnelles, les données ainsi combinées seront traitées comme des données à caractère personnel tant qu’elles resteront associées.
-
-Cookies et autres technologies
-
-Le site Internet, les services en ligne, les applications interactives, les messages électroniques et les publicités d’Apple peuvent utiliser des « cookies » et d’autres technologies, telles que des balises web ou « pixel tag ». Ces technologies nous permettent de mieux comprendre le comportement des utilisateurs, nous indiquent quelles parties de notre site sont les plus visitées, et facilitent et mesurent l’efficacité des publicités et recherches Internet. Nous traitons les données collectées par les cookies et autres technologies comme des données non-personnelles. Toutefois, dans la mesure où les adresses IP (Internet Protocol) ou identifiants similaires sont considérés comme des données à caractère personnel par la loi locale, nous traiterons également ces identifiants comme des données personnelles. De la même manière, dans la mesure où des données non-personnelles sont associées à des données personnelles, nous traiterons les informations ainsi associées comme des données personnelles aux fins du présent engagement de confidentialité.
-
-Apple et ses partenaires utilisent des cookies et autres technologies dans les services de publicité sur téléphone portable afin de vérifier le nombre de fois où vous visualisez une publicité donnée, de vous adresser des publicités en lien avec vos intérêts et de mesurer l’efficacité des campagnes publicitaires. Si vous ne souhaitez pas recevoir des publicités à ce niveau de pertinence sur votre téléphone portable, vous pouvez vous y opposer (« opt out ») en cliquant sur le lien suivant sur votre appareil : http://oo.apple.com. Si vous vous y opposez, vous continuerez de recevoir le même nombre de publicités sur votre téléphone portable, mais elles pourront être moins pertinentes car elles ne seront pas en lien avec vos centres d’intérêts. Vous pourrez toujours voir des publicités relatives au contenu d’une page web ou dans une application ou basées sur d’autres informations non-personnelles. Ce refus ou opt out s’applique uniquement aux services de publicité Apple et n’affecte pas les publicités basées sur vos centres d’intérêts provenant d’autres réseaux publicitaires.
-
-Apple et ses partenaires utilisent également des cookies et autres technologies pour se souvenir de vos données personnelles lorsque vous utilisez notre site, nos services en ligne et nos applications. Dans ce cas, notre objectif est de rendre votre visite plus pratique et de la personnaliser. Par exemple, le fait de connaitre votre prénom nous permettra de vous souhaiter la bienvenue lors de votre prochaine visite sur l’Apple Online Store. Le fait de connaitre votre pays et votre langue – et si vous êtes enseignant, le nom de votre école – nous permet de vous proposer une visite personnalisée plus efficace. Le fait de savoir qu’une personne utilisant votre ordinateur ou appareil a acheté un certain produit ou utilisé un service particulier nous aide à rendre nos communications publicitaires et électroniques plus pertinentes en fonction de vos centres d’intérêts. Enfin, le fait de connaître vos coordonnées, les numéros de série des produits et d’avoir des informations à propos de votre ordinateur ou appareil nous aide à enregistrer vos produits, à personnaliser votre système d’exploitation, à installer votre service MobileMe et à vous fournir un meilleur service client.
-
-Si vous souhaitez désactiver les cookies et que vous utilisez le navigateur Internet Safari, allez dans les préférences Safari puis dans l’onglet Sécurité afin de désactiver les cookies. Sur votre appareil portable Apple, allez dans Paramètres, puis Safari, puis dans la partie Cookies. Pour les autres navigateurs, consultez votre fournisseur pour savoir comment désactiver les cookies. Veuillez noter que certaines fonctionnalités du site Internet Apple ne seront plus disponibles si les cookies sont désactivés.
-
-A l’instar de nombreux sites Internet, nous collectons certaines informations automatiquement et les stockons dans des fichiers journaux. Ces données comprennent les adresses IP (Internet Protocol), le type de navigateur et la langue, le fournisseur d’accès à Internet (FAI), les pages de renvoi et de sortie, le système d’exploitation, la date / l’heure et les données relatives à votre parcours sur le site.
-
-Nous utilisons ces données pour comprendre et analyser les tendances, administrer le site, connaître le comportement des utilisateurs sur le site et collecter des informations démographiques à propos de l’ensemble de nos utilisateurs. Apple peut utiliser ces informations pour ses services marketing et publicitaires.
-
-Dans certains de nos messages électroniques, nous utilisons un « clic URL » lié au contenu du site Internet Apple. Lorsque les clients cliquent sur l’une de ces URL, ils sont transférés vers un autre serveur web avant d’arriver sur la page de destination de notre site. Nous suivons ces clics pour nous aider à déterminer l’intérêt porté à certains sujets et à mesurer l’efficacité de nos communications clients. Si nous préférez ne pas être suivi de cette façon, vous ne devez pas cliquer sur les liens textes ou graphiques figurant dans les messages électroniques.
-
-Les balises (« pixel tags ») nous permettent d’envoyer des messages électroniques dans un format que les clients peuvent lire et de savoir si le message a été ouvert. Nous pourrons utiliser ces informations pour réduire ou supprimer les messages adressés aux clients.
-
-Divulgation à des tiers
-
-Apple peut parfois mettre certaines données personnelles à la disposition de partenaires stratégiques travaillant avec Apple pour la fourniture de produits et services ou aidant Apple à commercialiser ses produits auprès des clients. Par exemple, lorsque vous achetez et que vous activez votre iPhone, vous autorisez Apple et son fournisseur à échanger les informations que vous divulguez pendant la procédure d’activation afin d’exécuter le service. A compter de l’activation du service, votre compte sera régi par les engagements de confidentialité respectifs d’Apple et de son prestataire. Les données personnelles seront uniquement partagées par Apple pour fournir ou améliorer ses produits, services et publicités; elles ne seront pas partagées avec des tiers à des fins marketing.
-
-Prestataires de services
-
-Apple partage des données personnelles avec des sociétés qui fournissent des services tels que le traitement de l’information, l’extension du crédit, l’exécution des commandes clients, la livraison des produits, la gestion et le développement des données clients, la fourniture du service client, l’évaluation de votre intérêt pour nos produits et services et la réalisation d’enquêtes de satisfaction ou de développement de clientèle. Ces sociétés sont obligées de protéger vos données et peuvent se trouver dans tout pays dans lequel Apple exerce des activités.
-
-Autres dispositions
-
-Apple pourra être amenée – du fait de la loi, dans le cadre d’une procédure en justice, d’un litige et/ou d’une requête des autorités publiques de votre pays de résidence ou autre – à divulguer vos données personnelles. Nous pouvons également divulguer vos données si nous pensons qu’à des fins de sécurité nationale, d’application de la loi ou autre sujet d’intérêt public, la divulgation est nécessaire ou appropriée.
-
-Nous pouvons également divulguer des informations vous concernant si nous pensons que cette divulgation est raisonnablement nécessaire pour faire valoir le respect de nos conditions générales ou protéger nos activités ou nos utilisateurs. En outre, en cas de restructuration, de fusion ou de vente, nous pourrons transférer toutes informations personnelles que nous collectons au tiers concerné.
-
-Protection des données à caractère personnel
-
-Apple prend des précautions – y compris des mesures administratives, techniques et physiques – pour protéger vos données personnelles contre la perte, le vol et la mauvaise utilisation, ainsi que l’accès, la divulgation, l’altération et la destruction non autorisés.
-
-Les services en ligne Apple, tels qu’Apple Online Store et iTunes Store, utilisent le cryptage Secure Sockets Layer (SSL) sur toutes les pages web sur lesquelles des données personnelles sont collectées. Pour effectuer des achats auprès de ces services, vous devez utiliser un navigateur SSL, tel que Safari, Firefox ou Internet Explorer. Cela permettra de préserver la confidentialité de vos données à caractère personnel lors de leur transmission surl’Internet.
-
-Lorsque vous utilisez certains produits, services ou applications Apple ou que vous participez à un forum, chat ou service de réseau social Apple, les données personnelles que vous partagez sont visibles par les autres utilisateurs qui pourront les lire, les collecter et les utiliser. Vous êtes responsable des données personnelles que vous décidez de soumettre dans ces circonstances. Par exemple, si vous indiquez votre nom et adresse électronique sur un forum, ces informations seront publiques. Vous devez être prudent lorsque vous utilisez ces fonctionnalités.
-
-Intégrité et conservation des données à caractère personnel
-
-Apple vous permet de préserver l’exactitude, la mise à jour et l’intégrité de vos données personnelles facilement. Nous conserverons vos données personnelles pour la durée nécessaire aux finalités décrites dans le présent engagement de confidentialité, sauf si une période de conservation plus longue est imposée ou permise par la loi.
-
-Accès aux données à caractère personnel
-
-Vous pouvez vous assurer que vos coordonnées et préférences sont exactes, complètes et à jour en vous connectant à votre compte sur https://appleid.apple.com/. Concernant les autres données à caractère personnel, nous nous efforçons de bonne foi de vous donner un accès vous permettant de nous demander de corriger les données si elles sont inexactes ou de les supprimer, si Apple n’est pas obligée de les conserver du fait de la loi ou à des fins commerciales légitimes. Nous pourrons refuser de traiter les demandes excessivement répétitives, nécessitant des efforts techniques disproportionnés, mettant en péril la confidentialité des données des tiers, les demandes qui sont extrêmement difficiles à mettre en place ou pour lesquelles un accès n’est pas imposé autrement par la loi applicable. Les demandes d’accès, de correction ou de suppression peuvent être envoyées aux adresses électroniques Confidentialité régionales.
-
-Enfants
-
-Nous ne collectons pas en connaissance de cause les données personnelles des enfants de moins de 13 ans. Si nous sommes informés que nous avons collecté les données personnelles d’un enfant de moins de 13 ans, nous prendrons des mesures pour supprimer ces informations dès que possible.
-
-Services de géolocalisation
-
-Pour fournir des services de géolocalisation sur les produits Apple, Apple et ses partenaires et licenciés peuvent collecter, utiliser et partager des données de localisation précises, y compris la localisation géographique en temps réel de votre ordinateur ou appareil Apple. Ces données de localisation sont collectées anonymement dans un format ne permettant pas de vous identifier et sont utilisées par Apple et ses partenaires et licenciés pour fournir et améliorer les produits et services de géolocalisation. Par exemple, nous pouvons partager la localisation géographique avec des fournisseurs d’application si vous acceptez leurs services de localisation.
-
-Certains services de géolocalisation proposés par Apple, telle que la fonctionnalité MobileMe « Find My iPhone », ont besoin de vos données personnelles pour mettre en œuvre cette fonctionnalité.
-
-Sites et services de tiers
-
-Les sites Internet, produits, applications et services Apple peuvent contenir des liens vers des sites Internet, produits et services de tiers. Nos produits et services peuvent également utiliser ou proposer des produits ou services de tiers – par exemple, l’application iPhone d’un tiers. Les informations collectées par les tiers, qui peuvent comprendre des éléments tels que les données de localisation ou les coordonnées, sont régies par leurs chartes de confidentialité. Nous vous invitons à lire les chartes de confidentialité de ces tiers.
-
-Utilisateurs internationaux
-
-Les informations que vous divulguez pourront être transférées ou seront accessibles par des sociétés à travers le monde, tel que décrit dans le présent engagement de confidentialité. Apple se conforme aux principes « Safe Harbor » définis par le Ministère américain du Commerce en matière de collecte, d’utilisation et de conservation des informations personnelles collectées par des sociétés de l’Espace Economique Européen et de Suisse. Vous trouverez ici de plus amples informations sur le programme « Safe Harbor » du Ministère américain du Commerce.
-
-Vous noterez que les informations personnelles concernant les particuliers résidant dans un état membre de l’Espace Economique Européen (EEE) sont contrôlées conjointement par Apple Sales International à Cork en Irlande et Apple UK Limited à Uxbridge, au Royaume-Uni. Les données à caractère personnel collectées dans l’EEE lors de l’utilisation d’iTunes sont contrôlées par iTunes SARL au Luxembourg.
-
-La protection de votre vie privée : un engagement à l’échelle de notre entreprise
-
-Soucieux de préserver la sécurité de vos informations personnelles, nous communiquons les présentes règles de confidentialité et de sécurité à chacun de nos salariés et appliquons une politique très stricte en la matière au sein de notre entreprise.
-
-Questions sur la confidentialité
-
-Si vous avez des questions ou des interrogations à propos de l’engagement de Confidentialité Apple ou du traitement des données, contactez votre Contrôleur de Données Apple local à l’adresse électronique régionale indiquée ci-dessous.
-
-Pays ou région - Coordonnées
-
-Etats-Unis http://www.apple.com/privacy/contact/
-Canada http://www.apple.com/privacy/contact/
-Amérique Latine http://www.apple.com/privacy/contact/
-Europe http://www.apple.com/privacy/contact/
-Japon http://www.apple.com/privacy/contact/
-Australie http://www.apple.com/privacy/contact/
-Asie / Pacifiquehttp://www.apple.com/privacy/contact/
-Apple peut périodiquement mettre à jour son Engagement de Confidentialité. En cas de modification substantielle, de cet Engament, une notification sera affichée sur notre site Internet, accompagnée de l’Engagement de Confidentialité mis à jour.
-
-Apple Inc., 1 Infinite Loop, Cupertino, Californie, Etats-Unis 95014
-
-Dernière mise à jour 21 juin 2010
+Dernière mise à jour : 20 février 2013
